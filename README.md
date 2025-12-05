@@ -47,13 +47,15 @@ This section focuses on the Fatal Accident Reporting System (FARS) data. It cove
 3. [FARS_step3_clustering.ipynb](FARS_step3_clustering.ipynb) : Executes the clustering algorithms to identify accident patterns.
 4. [FARS_step4_Apriori_Scratch_with_mlxtend.ipynb](FARS_step4_Apriori_Scratch_with_mlxtend.ipynb) : Runs the Apriori algorithm to find frequent itemsets and association rules within the clusters.
 
-
 ### CRSS Analysis (Regression)
 This section focuses on the Crash Report Sampling System (CRSS) data.
 
 1. Input Data: The notebooks utilize the regression dataset located in [Dataset_Regression](Dataset_Regression) folder.
 2. Outputs: Analysis results are stored in the [CRSS_Analysis](CRSS_Analysis) directory.
 
+#### Execution Steps
+1. [CRSS_Step1_data_extraction.ipynb](CRSS_Step1_data_extraction.ipynb) : Handles the initial data loading and preparation for the CRSS dataset.
+2. [CRSS_Step2_Analysis.ipynb](CRSS_Step2_Analysis.ipynb) : Performs the regression analysis and generates the final insights.
    
 ## Dataset 📊
 The original datasets can be accessed using the given links:
