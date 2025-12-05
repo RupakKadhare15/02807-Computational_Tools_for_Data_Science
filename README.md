@@ -41,6 +41,14 @@ This section focuses on the Fatal Accident Reporting System (FARS) data. It cove
 1. Input Data: The notebooks utilize the datasets located in the [Dataset](Dataset) folder.
 2. Outputs: Visualizations and processed files are saved to the [Results](Results) under Optimal_K, Individual_Cluster_Results, and St4_apriori_results.
 
+
+### CRSS Analysis (Regression)
+This section focuses on the Crash Report Sampling System (CRSS) data.
+
+1. Input Data: The notebooks utilize the regression dataset located in [Dataset_Regression](Dataset_Regression) folder.
+2. Outputs: Analysis results are stored in the [CRSS_Analysis](CRSS_Analysis) directory.
+
+   
 ## Dataset 📊
 The original datasets can be accessed using the given links:
 
