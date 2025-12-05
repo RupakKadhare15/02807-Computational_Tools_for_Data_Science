@@ -5,8 +5,8 @@ Despite continuous improvements in vehicle safety and infrastructure, road accid
 
 Our research questions are:
 
-Can classical data mining and machine learning methods uncover latent relationships between driver, vehicle, and environmental factors in fatal crashes?
-Can advanced data science techniques reveal the importance of these factors in fatal outcomes?
+1. Can classical data mining and machine learning methods uncover latent relationships between driver, vehicle, and environmental factors in fatal crashes?
+2. Can advanced data science techniques reveal the importance of these factors in fatal outcomes?
 
 
 
