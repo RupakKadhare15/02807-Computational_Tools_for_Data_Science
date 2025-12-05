@@ -3,3 +3,5 @@ pandas
 kmodes
 matplotlib
 mlxtend
+polars
+
