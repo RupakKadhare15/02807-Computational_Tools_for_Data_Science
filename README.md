@@ -36,10 +36,16 @@ Ensure you have Python installed (preferably Python 3.12 or later).
 After installation of the requirements files and dataset, follow the procedures below to reproduce the analysis. The project is divided into two main parts: FARS (Clustering & Frequent Itemsets) and CRSS (Regression & Trend Analysis).
 
 ### FARS Analysis (Clustering & Frequent Itemsets)
-This section focuses on the Fatal Accident Reporting System (FARS) data. It covers data extraction, feature engineering, clustering (K-Means), and association rule mining (Apriori).
+This section focuses on the Fatal Accident Reporting System (FARS) data. It covers data extraction, feature engineering, clustering and association rule mining (Apriori).
 
 1. Input Data: The notebooks utilize the datasets located in the [Dataset](Dataset) folder.
 2. Outputs: Visualizations and processed files are saved to the [Results](Results) under Optimal_K, Individual_Cluster_Results, and St4_apriori_results.
+
+#### Execution Steps
+1. [FARS_step1_data_extraction.ipynb](FARS_step1_data_extraction.ipynb) : Run this to extract and consolidate the raw data.
+2. [FARS_step2_feature_engineering.ipynb](FARS_step2_feature_engineering.ipynb) : Performs preprocessing and transforms the data for analysis.
+3. [FARS_step3_clustering.ipynb](FARS_step3_clustering.ipynb) : Executes the clustering algorithms to identify accident patterns.
+4. [FARS_step4_Apriori_Scratch_with_mlxtend.ipynb](FARS_step4_Apriori_Scratch_with_mlxtend.ipynb) : Runs the Apriori algorithm to find frequent itemsets and association rules within the clusters.
 
 
 ### CRSS Analysis (Regression)
