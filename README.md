@@ -9,15 +9,15 @@ Our research questions are:
 2. Can advanced data science techniques reveal the importance of these factors in fatal outcomes?
 
 
-### Installation 
+## Installation 
 
 To run this project locally, follow these steps:
 
-#### Prerequisites
+### Prerequisites
 
 Ensure you have Python installed (preferably Python 3.12 or later).
 
-#### Setup
+### Setup
 
 1. Clone the repository:
    ```sh
