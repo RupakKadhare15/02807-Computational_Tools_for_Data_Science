@@ -51,7 +51,9 @@ This section focuses on the Fatal Accident Reporting System (FARS) data. It cove
 This section focuses on the Crash Report Sampling System (CRSS) data.
 
 1. Input Data: The notebooks utilize the regression dataset located in [Dataset_Regression](Dataset_Regression) folder.
-2. Outputs: Analysis results are stored in the [CRSS_Analysis](Results/CRSS_Analysis) directory.
+2. [CRSS_Step1_data-extraction.ipynb](CRSS_Step1_data-extraction.ipynb): This extracts the raw data and joins the person, accident, vehicle tables. The data is exported to [Dataset_Regression/person_level_integrated_CRSS.parquet](Dataset_Regression/person_level_integrated_CRSS.parquet)
+3. [CRSS_Step2_Analysis.ipynb](CRSS_Step2_Analysis.ipynb): This runs logistic regression analysis on the parquet file.
+4. Outputs: Analysis results are stored in the [CRSS_Analysis](Results/CRSS_Analysis) directory.
 
 #### Execution Steps
 1. [CRSS_Step1_data_extraction.ipynb](CRSS_Step1_data_extraction.ipynb) : Handles the initial data loading and preparation for the CRSS dataset.
@@ -64,7 +66,9 @@ FARS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/
 - On the website, download *FARS2023NationalCSV.zip*
 - Add the following files to *Dataset* folder: vehicle, person, accident
 
-CRSS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/2023/ 
+CRSS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/2023/
+- On the website, download *CRSS2023CSV.zip*
+- Add the following files to *Dataset* folder: vehicle, person, accident
 
 ## Authors 🧑🏻‍💻 
 
