@@ -37,6 +37,8 @@ Ensure you have Python installed (preferably Python 3.12 or later).
 The original datasets can be accessed using the given links:
 
 FARS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/
+- On the website, download *FARS2023NationalCSV.zip*
+- Add the following files to *Dataset* folder: vehicle, person, accident
 
 CRSS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/2023/ 
 
