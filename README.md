@@ -21,10 +21,13 @@ Ensure you have Python installed (preferably Python 3.12 or later).
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/RupakKadhare15/02807-Computational_Tools_for_Data_Science.git 
+   git clone https://github.com/RupakKadhare15/02807-Computational_Tools_for_Data_Science.git
+   ```
+2. Change the directory:
+   ```sh 
    cd 02807-Computational_Tools_for_Data_Science
    ```
-2. Install required dependencies:
+3. Install required dependencies:
    ```sh
    pip install -r requirements.txt
    ```
