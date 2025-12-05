@@ -1,0 +1,193 @@
+CLUSTER 2 - Frequent Itemsets [SCRATCH] (Support >= 0.2)
+Total Transactions: 9296
+============================================================
+
+                                                                               Itemset  Support
+                                                                           GENDER=MALE 0.890491
+                                                                       DARK_CONDITIONS 0.856390
+                                                          DARK_CONDITIONS, GENDER=MALE 0.762801
+                                                                       AGE_GROUP=Adult 0.692879
+                                                                        LOCATION=RURAL 0.652969
+                                                                     TIME_OF_DAY=Night 0.632960
+                                                    DARK_CONDITIONS, TIME_OF_DAY=Night 0.631024
+                                                          AGE_GROUP=Adult, GENDER=MALE 0.617040
+                                                                  WEEKEND_FLAG=Weekend 0.616071
+                                                                           VEHICLE=OLD 0.604991
+                                                      AGE_GROUP=Adult, DARK_CONDITIONS 0.597461
+                                                        GENDER=MALE, TIME_OF_DAY=Night 0.570783
+                                       DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night 0.569170
+                                                           GENDER=MALE, LOCATION=RURAL 0.567018
+                                                     GENDER=MALE, WEEKEND_FLAG=Weekend 0.556799
+                                         AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE 0.532164
+                                                              GENDER=MALE, VEHICLE=OLD 0.530981
+                                                       DARK_CONDITIONS, LOCATION=RURAL 0.524419
+                                                          DARK_CONDITIONS, VEHICLE=OLD 0.491717
+                                                 DARK_CONDITIONS, WEEKEND_FLAG=Weekend 0.487952
+                                          DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL 0.452883
+                                                    AGE_GROUP=Adult, TIME_OF_DAY=Night 0.445676
+                                                       AGE_GROUP=Adult, LOCATION=RURAL 0.445460
+                                   AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night 0.444600
+                                    DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekend 0.443739
+                                             DARK_CONDITIONS, GENDER=MALE, VEHICLE=OLD 0.430293
+                                                                         SEASON=Spring 0.429755
+                                                 AGE_GROUP=Adult, WEEKEND_FLAG=Weekend 0.412220
+                                                          AGE_GROUP=Adult, VEHICLE=OLD 0.410284
+                                       AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Night 0.401786
+                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night 0.401033
+                                                                           VEHICLE=NEW 0.395009
+                                                  LOCATION=RURAL, WEEKEND_FLAG=Weekend 0.388231
+                                          AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL 0.385865
+                                                                  WEEKEND_FLAG=Weekday 0.383929
+                                                                         PASSENGER_CAR 0.382207
+                                                            GENDER=MALE, SEASON=Spring 0.372849
+                                    AGE_GROUP=Adult, GENDER=MALE, WEEKEND_FLAG=Weekend 0.371773
+                                                           LOCATION=RURAL, VEHICLE=OLD 0.371343
+                                                 DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.368438
+                                                          DARK_CONDITIONS, VEHICLE=NEW 0.364673
+                                                        DARK_CONDITIONS, PASSENGER_CAR 0.362306
+                                      AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL 0.359832
+                                             AGE_GROUP=Adult, GENDER=MALE, VEHICLE=OLD 0.359725
+                                                              GENDER=MALE, VEHICLE=NEW 0.359509
+                                                     LOCATION=RURAL, TIME_OF_DAY=Night 0.355099
+                                    DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Night 0.353593
+                                                                        LOCATION=URBAN 0.347031
+                                               TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.344880
+                                                        DARK_CONDITIONS, SEASON=Spring 0.344664
+                              DARK_CONDITIONS, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.344019
+                                                     VEHICLE=OLD, WEEKEND_FLAG=Weekend 0.341330
+                                     GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekend 0.339931
+                                                        TIME_OF_DAY=Night, VEHICLE=OLD 0.337887
+                                         AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=OLD 0.337027
+                                       DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=OLD 0.336274
+                                                     GENDER=MALE, WEEKEND_FLAG=Weekday 0.333692
+                                             DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW 0.332509
+                                                       DARK_CONDITIONS, LOCATION=URBAN 0.331971
+                                AGE_GROUP=Adult, DARK_CONDITIONS, WEEKEND_FLAG=Weekend 0.327453
+                                                           GENDER=MALE, LOCATION=URBAN 0.323472
+                                                            GENDER=MALE, PASSENGER_CAR 0.322935
+                                    DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekday 0.319062
+                                  GENDER=MALE, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.318417
+                 DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.317879
+                                              GENDER=MALE, LOCATION=RURAL, VEHICLE=OLD 0.317879
+                                        GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Night 0.310133
+                                          DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN 0.309918
+                         AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL 0.309596
+                       DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Night 0.308735
+                                           DARK_CONDITIONS, GENDER=MALE, PASSENGER_CAR 0.307982
+                                        GENDER=MALE, VEHICLE=OLD, WEEKEND_FLAG=Weekend 0.303356
+                                           GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=OLD 0.299699
+                                                        AGE_GROUP=Adult, SEASON=Spring 0.298515
+                          DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=OLD 0.298300
+                                           DARK_CONDITIONS, GENDER=MALE, SEASON=Spring 0.297762
+                   AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekend 0.296794
+                                                        TIME_OF_DAY=Night, VEHICLE=NEW 0.295073
+                            AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, VEHICLE=OLD 0.294858
+                                       DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=NEW 0.294750
+                                               TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.288081
+                              DARK_CONDITIONS, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.287005
+                                                          AGE_GROUP=Adult, VEHICLE=NEW 0.282595
+                                                           LOCATION=RURAL, VEHICLE=NEW 0.281627
+                                                 AGE_GROUP=Adult, WEEKEND_FLAG=Weekday 0.280658
+                                                     LOCATION=URBAN, TIME_OF_DAY=Night 0.277861
+                                    DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night 0.277431
+                                 DARK_CONDITIONS, LOCATION=RURAL, WEEKEND_FLAG=Weekend 0.275065
+                                                     VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.274742
+                                          DARK_CONDITIONS, LOCATION=RURAL, VEHICLE=OLD 0.273128
+                                           GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=NEW 0.271084
+                          DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=NEW 0.270869
+                                AGE_GROUP=Adult, DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.270009
+                                                      PASSENGER_CAR, TIME_OF_DAY=Night 0.269901
+                                     DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night 0.269256
+                                                  LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.264738
+                                                   PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.263769
+                                                     VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.263662
+                                                      SEASON=Spring, TIME_OF_DAY=Night 0.263016
+                                     DARK_CONDITIONS, SEASON=Spring, TIME_OF_DAY=Night 0.261618
+                                        GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Night 0.260650
+                                         AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW 0.260435
+                       DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Night 0.260435
+                                           AGE_GROUP=Adult, GENDER=MALE, SEASON=Spring 0.258606
+                                             AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW 0.257315
+                                                         LOCATION=RURAL, PASSENGER_CAR 0.256024
+                                 AGE_GROUP=Adult, LOCATION=RURAL, WEEKEND_FLAG=Weekend 0.255486
+                                        GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.253442
+                                  GENDER=MALE, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.252367
+                 DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.251291
+                                          DARK_CONDITIONS, LOCATION=RURAL, VEHICLE=NEW 0.251291
+                                 DARK_CONDITIONS, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.249355
+                                              GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW 0.249139
+                                    DARK_CONDITIONS, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.248279
+                                          AGE_GROUP=Adult, LOCATION=RURAL, VEHICLE=OLD 0.248171
+                                                       AGE_GROUP=Adult, LOCATION=URBAN 0.247418
+                                                   SEASON=Spring, WEEKEND_FLAG=Weekend 0.246127
+                                                            PASSENGER_CAR, VEHICLE=OLD 0.245482
+                                    AGE_GROUP=Adult, GENDER=MALE, WEEKEND_FLAG=Weekday 0.245267
+                                    DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.244514
+                                                        AGE_GROUP=Adult, PASSENGER_CAR 0.244191
+                                    AGE_GROUP=Adult, LOCATION=RURAL, TIME_OF_DAY=Night 0.244083
+                                  DARK_CONDITIONS, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.244083
+                                    DARK_CONDITIONS, VEHICLE=OLD, WEEKEND_FLAG=Weekend 0.243438
+                   AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Night 0.243330
+                                                         LOCATION=RURAL, SEASON=Spring 0.243223
+                                       AGE_GROUP=Adult, DARK_CONDITIONS, SEASON=Spring 0.241071
+                    DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekend 0.240318
+                                      AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN 0.237629
+                            AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW 0.237306
+                                                                        ROLLOVER_CRASH 0.236553
+                                        DARK_CONDITIONS, LOCATION=RURAL, PASSENGER_CAR 0.236338
+                   AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekday 0.235370
+                                                           LOCATION=URBAN, VEHICLE=OLD 0.233649
+                                       AGE_GROUP=Adult, TIME_OF_DAY=Night, VEHICLE=OLD 0.233326
+                                         GENDER=MALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.233219
+                        DARK_CONDITIONS, GENDER=MALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.232896
+                              AGE_GROUP=Adult, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.232788
+                      AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=OLD 0.232466
+             AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.232358
+                                       AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR 0.232143
+                                      GENDER=MALE, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.232143
+                                          AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN 0.231175
+                             DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, VEHICLE=OLD 0.230744
+                                         GENDER=MALE, SEASON=Spring, TIME_OF_DAY=Night 0.230314
+                        DARK_CONDITIONS, GENDER=MALE, SEASON=Spring, TIME_OF_DAY=Night 0.229238
+                                                  LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.227840
+                                        GENDER=MALE, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.227625
+                                     GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.227087
+                       DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.226549
+                                           DARK_CONDITIONS, PASSENGER_CAR, VEHICLE=OLD 0.225688
+                         AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN 0.222569
+                    AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekend 0.222354
+                                                            SEASON=Spring, VEHICLE=OLD 0.222246
+                             DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW 0.222139
+                                    AGE_GROUP=Adult, VEHICLE=OLD, WEEKEND_FLAG=Weekend 0.221601
+                                          DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=OLD 0.218589
+                     DARK_CONDITIONS, GENDER=MALE, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.217405
+                       DARK_CONDITIONS, GENDER=MALE, VEHICLE=OLD, WEEKEND_FLAG=Weekend 0.217190
+                                     GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.216867
+                                      GENDER=MALE, SEASON=Spring, WEEKEND_FLAG=Weekend 0.214824
+                 AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.213855
+AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.213748
+                                                                       ADVERSE_WEATHER 0.213425
+                                              GENDER=MALE, LOCATION=URBAN, VEHICLE=OLD 0.213102
+                       DARK_CONDITIONS, GENDER=MALE, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.213102
+                                 DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.212887
+                              AGE_GROUP=Adult, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.212887
+                    DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.212565
+                                       AGE_GROUP=Adult, TIME_OF_DAY=Night, VEHICLE=NEW 0.212349
+             AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.212242
+                      AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=NEW 0.212134
+                       AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Night 0.212134
+                             AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, VEHICLE=OLD 0.211704
+      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Night 0.211489
+                          AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, SEASON=Spring 0.208046
+                                                            SEASON=Spring, VEHICLE=NEW 0.207509
+                          AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=OLD 0.207078
+         AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=OLD 0.206433
+                                            GENDER=MALE, LOCATION=RURAL, PASSENGER_CAR 0.205142
+                                           AGE_GROUP=Adult, GENDER=MALE, PASSENGER_CAR 0.204819
+                                                           GENDER=MALE, ROLLOVER_CRASH 0.204389
+                    DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.203421
+                                            GENDER=MALE, LOCATION=RURAL, SEASON=Spring 0.202775
+                                               GENDER=MALE, PASSENGER_CAR, VEHICLE=OLD 0.202130
+                                     LOCATION=RURAL, VEHICLE=OLD, WEEKEND_FLAG=Weekend 0.201915
+                                    AGE_GROUP=Adult, LOCATION=URBAN, TIME_OF_DAY=Night 0.201592
+                   AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night 0.201269

@@ -1,0 +1,419 @@
+CLUSTER 4 - Frequent Itemsets [MLXTEND] (Support >= 0.2)
+Total Transactions: 6768
+============================================================
+
+                                                                                             Itemset  Support
+                                                                                       PASSENGER_CAR 0.968528
+                                                                                         VEHICLE=NEW 0.872045
+                                                                                     DARK_CONDITIONS 0.856383
+                                                                          PASSENGER_CAR, VEHICLE=NEW 0.843381
+                                                                      DARK_CONDITIONS, PASSENGER_CAR 0.834811
+                                                                                      LOCATION=URBAN 0.830230
+                                                                       LOCATION=URBAN, PASSENGER_CAR 0.802600
+                                                                        DARK_CONDITIONS, VEHICLE=NEW 0.748375
+                                                         DARK_CONDITIONS, PASSENGER_CAR, VEHICLE=NEW 0.728723
+                                                                     DARK_CONDITIONS, LOCATION=URBAN 0.726064
+                                                                         LOCATION=URBAN, VEHICLE=NEW 0.711732
+                                                                                       GENDER=FEMALE 0.707890
+                                                      DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR 0.706413
+                                                          LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.686909
+                                                                        GENDER=FEMALE, PASSENGER_CAR 0.676418
+                                                                                     AGE_GROUP=Adult 0.652039
+                                                                      AGE_GROUP=Adult, PASSENGER_CAR 0.627512
+                                                        DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW 0.623966
+                                                                          GENDER=FEMALE, VEHICLE=NEW 0.614805
+                                         DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.606235
+                                                                                        INTERSECTION 0.587175
+                                                           GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW 0.586141
+                                                                                   TIME_OF_DAY=Night 0.584811
+                                                                  DARK_CONDITIONS, TIME_OF_DAY=Night 0.583629
+                                                                                WEEKEND_FLAG=Weekend 0.580674
+                                                                        AGE_GROUP=Adult, VEHICLE=NEW 0.574911
+                                                                      DARK_CONDITIONS, GENDER=FEMALE 0.572547
+                                                                    AGE_GROUP=Adult, DARK_CONDITIONS 0.567671
+                                                                         INTERSECTION, PASSENGER_CAR 0.566785
+                                                                    PASSENGER_CAR, TIME_OF_DAY=Night 0.566637
+                                                   DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night 0.565455
+                                                                 PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.561466
+                                                                       GENDER=FEMALE, LOCATION=URBAN 0.554669
+                                                         AGE_GROUP=Adult, PASSENGER_CAR, VEHICLE=NEW 0.551862
+                                                       DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR 0.550975
+                                                     AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR 0.550532
+                                                                     AGE_GROUP=Adult, LOCATION=URBAN 0.543292
+                                                        GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR 0.527039
+                                                      AGE_GROUP=Adult, LOCATION=URBAN, PASSENGER_CAR 0.521572
+                                                                      TIME_OF_DAY=Night, VEHICLE=NEW 0.514628
+                                                                   LOCATION=URBAN, TIME_OF_DAY=Night 0.513889
+                                                     DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=NEW 0.513593
+                                                  DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night 0.512707
+                                                                   VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.511229
+                                                       AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW 0.500887
+                                                         DARK_CONDITIONS, GENDER=FEMALE, VEHICLE=NEW 0.497931
+                                                       PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.497931
+                                                    LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.497340
+                                      DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.496897
+                                                                        INTERSECTION, LOCATION=URBAN 0.496749
+                                   DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.496158
+                                                                           INTERSECTION, VEHICLE=NEW 0.493942
+                                                    PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.493942
+                                        AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, VEHICLE=NEW 0.484781
+                                                    AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN 0.481974
+                                                         INTERSECTION, LOCATION=URBAN, PASSENGER_CAR 0.480201
+                                          DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW 0.478280
+                                                                LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.477394
+                                                            INTERSECTION, PASSENGER_CAR, VEHICLE=NEW 0.476359
+                                                        AGE_GROUP=Adult, LOCATION=URBAN, VEHICLE=NEW 0.472222
+                                                          GENDER=FEMALE, LOCATION=URBAN, VEHICLE=NEW 0.471040
+                                     AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR 0.466312
+                                                                      AGE_GROUP=Adult, GENDER=FEMALE 0.466164
+                                                 LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.460402
+                                                               DARK_CONDITIONS, WEEKEND_FLAG=Weekend 0.460106
+                                                      DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN 0.457299
+                                                                       DARK_CONDITIONS, INTERSECTION 0.454787
+                                         AGE_GROUP=Adult, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.451980
+                                                DARK_CONDITIONS, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.449025
+                                           GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.446217
+                                                      LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.445331
+                                     DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.444297
+                                                        DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR 0.443853
+                                                       AGE_GROUP=Adult, GENDER=FEMALE, PASSENGER_CAR 0.441637
+                                       DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR 0.437648
+                                       LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.430260
+                      DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.429226
+                                                                                WEEKEND_FLAG=Weekday 0.419326
+                                       AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW 0.419178
+                                                   LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.414007
+                                                           INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.412973
+                                                         AGE_GROUP=Adult, GENDER=FEMALE, VEHICLE=NEW 0.411348
+                                                  DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.408540
+                                                                 PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.407063
+                        AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.404551
+                                            INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.399232
+                                    LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.398936
+                                   DARK_CONDITIONS, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.398493
+                                                       DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN 0.398345
+                                                               DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.396277
+                                               DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.393174
+                                                                                         SEASON=Fall 0.391992
+                                        DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR 0.389332
+                                         DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, VEHICLE=NEW 0.388593
+                                          AGE_GROUP=Adult, GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW 0.388298
+                                                                  AGE_GROUP=Adult, TIME_OF_DAY=Night 0.388002
+                                                 AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night 0.387559
+                                                     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE 0.386673
+                                                DARK_CONDITIONS, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.385786
+                                DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.382388
+                                                          DARK_CONDITIONS, INTERSECTION, VEHICLE=NEW 0.380024
+                                                                 GENDER=FEMALE, WEEKEND_FLAG=Weekend 0.379433
+                                                                          PASSENGER_CAR, SEASON=Fall 0.378989
+                                                                         GENDER=FEMALE, INTERSECTION 0.378989
+                                                               AGE_GROUP=Adult, WEEKEND_FLAG=Weekend 0.377512
+                                                   AGE_GROUP=Adult, PASSENGER_CAR, TIME_OF_DAY=Night 0.373670
+                                  AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night 0.373227
+                                           DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR, VEHICLE=NEW 0.371011
+                          DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.370863
+                                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR 0.369533
+                                                                       AGE_GROUP=Adult, INTERSECTION 0.368647
+                                                      AGE_GROUP=Adult, GENDER=FEMALE, LOCATION=URBAN 0.367760
+                                                AGE_GROUP=Adult, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.362884
+                                                                   VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.360816
+                                                  GENDER=FEMALE, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.360225
+                                                          GENDER=FEMALE, INTERSECTION, PASSENGER_CAR 0.358599
+                                                        AGE_GROUP=Adult, INTERSECTION, PASSENGER_CAR 0.353428
+                                                                LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.352837
+                                                    PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.349439
+                                                             TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.346188
+                                       AGE_GROUP=Adult, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR 0.346040
+                                            DARK_CONDITIONS, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.345449
+                                  DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.344119
+                                                     AGE_GROUP=Adult, TIME_OF_DAY=Night, VEHICLE=NEW 0.343972
+                                    AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=NEW 0.343528
+                                                 LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.342199
+                                        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, VEHICLE=NEW 0.341460
+                                                  AGE_GROUP=Adult, LOCATION=URBAN, TIME_OF_DAY=Night 0.340721
+                                 AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night 0.340278
+                                                  DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.339835
+                                                                            SEASON=Fall, VEHICLE=NEW 0.337470
+                                              PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.336879
+                                                  AGE_GROUP=Adult, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.336879
+                             DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.336141
+                   DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.334368
+                                               DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.332890
+                                                    GENDER=FEMALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.330969
+                                      AGE_GROUP=Adult, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.330378
+                                   DARK_CONDITIONS, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.330230
+                     AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.329935
+                                          DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.329492
+                                                                 GENDER=FEMALE, WEEKEND_FLAG=Weekday 0.328457
+                                   AGE_GROUP=Adult, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.327571
+                  AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.327128
+                                                             PASSENGER_CAR, SEASON=Fall, VEHICLE=NEW 0.325798
+                         AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW 0.325355
+                                DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.324025
+                                   AGE_GROUP=Adult, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.323286
+                           DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.322400
+                                                                    GENDER=FEMALE, TIME_OF_DAY=Night 0.321217
+                                                            GENDER=FEMALE, INTERSECTION, VEHICLE=NEW 0.320626
+                                                   DARK_CONDITIONS, GENDER=FEMALE, TIME_OF_DAY=Night 0.320183
+                                         AGE_GROUP=Adult, GENDER=FEMALE, LOCATION=URBAN, VEHICLE=NEW 0.319001
+                                                  GENDER=FEMALE, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.316194
+                                                                        DARK_CONDITIONS, SEASON=Fall 0.316194
+                                                          AGE_GROUP=Adult, INTERSECTION, VEHICLE=NEW 0.313978
+                                     GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.313682
+                                                       AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN 0.313239
+                                                                         LOCATION=URBAN, SEASON=Fall 0.311170
+                                               AGE_GROUP=Adult, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.311022
+                                     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN 0.310727
+                                                TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.309249
+                               DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.308658
+                                                         DARK_CONDITIONS, PASSENGER_CAR, SEASON=Fall 0.307624
+                                             LOCATION=URBAN, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.307329
+                            DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.306590
+                                                DARK_CONDITIONS, GENDER=FEMALE, WEEKEND_FLAG=Weekday 0.305408
+                                              AGE_GROUP=Adult, DARK_CONDITIONS, WEEKEND_FLAG=Weekend 0.305260
+                                                                  INTERSECTION, WEEKEND_FLAG=Weekend 0.305112
+                                                         GENDER=FEMALE, INTERSECTION, LOCATION=URBAN 0.305112
+                                                     GENDER=FEMALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.303044
+                                             GENDER=FEMALE, INTERSECTION, PASSENGER_CAR, VEHICLE=NEW 0.303044
+                                    DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.302009
+                                        AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR 0.300827
+                                 PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.300680
+                                                          LOCATION=URBAN, PASSENGER_CAR, SEASON=Fall 0.300236
+                                           AGE_GROUP=Adult, INTERSECTION, PASSENGER_CAR, VEHICLE=NEW 0.300236
+                DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.300089
+                          AGE_GROUP=Adult, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.298759
+                              LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.298316
+                                AGE_GROUP=Adult, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.297872
+                                     AGE_GROUP=Adult, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.297725
+                                                   LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.297725
+             DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.297577
+                    AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.297281
+                               AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.296543
+                                                                                       SEASON=Winter 0.295361
+                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR 0.295065
+                                 DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.294917
+                                                   INTERSECTION, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.293292
+                                                      AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION 0.292553
+                                                                          GENDER=MALE, PASSENGER_CAR 0.292110
+                                                                                         GENDER=MALE 0.292110
+                                          GENDER=FEMALE, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR 0.288564
+                                    LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.287973
+                                                 GENDER=FEMALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.287086
+                                                                     INTERSECTION, TIME_OF_DAY=Night 0.286643
+                                                                        PASSENGER_CAR, SEASON=Winter 0.286495
+                                                    DARK_CONDITIONS, INTERSECTION, TIME_OF_DAY=Night 0.285904
+                      AGE_GROUP=Adult, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.285313
+     AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.284870
+                                       AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR 0.284279
+                                                    GENDER=FEMALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.283836
+                                                         DARK_CONDITIONS, GENDER=MALE, PASSENGER_CAR 0.283836
+                                                                        DARK_CONDITIONS, GENDER=MALE 0.283836
+                                                                  INTERSECTION, WEEKEND_FLAG=Weekday 0.282063
+                                                       GENDER=FEMALE, TIME_OF_DAY=Night, VEHICLE=NEW 0.281324
+                                      DARK_CONDITIONS, GENDER=FEMALE, TIME_OF_DAY=Night, VEHICLE=NEW 0.280437
+                                  DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.279846
+                                                      INTERSECTION, PASSENGER_CAR, TIME_OF_DAY=Night 0.277778
+                                     DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR, TIME_OF_DAY=Night 0.277039
+                                                                          GENDER=FEMALE, SEASON=Fall 0.276743
+                                                                         GENDER=MALE, LOCATION=URBAN 0.275561
+                                                                      DARK_CONDITIONS, SEASON=Winter 0.275561
+                                                          GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR 0.275561
+                                                               AGE_GROUP=Adult, WEEKEND_FLAG=Weekday 0.274527
+                                 AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.274232
+                                  AGE_GROUP=Adult, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.273936
+                                                   INTERSECTION, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.273493
+                                     GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.272459
+                   DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.271868
+                                                           DARK_CONDITIONS, SEASON=Fall, VEHICLE=NEW 0.271720
+                                LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.271277
+               DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.270686
+                                  GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.270095
+                        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, VEHICLE=NEW 0.269504
+                                                       DARK_CONDITIONS, PASSENGER_CAR, SEASON=Winter 0.268913
+                                         DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR 0.268765
+                                                        DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN 0.268765
+                                                 GENDER=FEMALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.267583
+                                                DARK_CONDITIONS, GENDER=FEMALE, WEEKEND_FLAG=Weekend 0.267139
+                  AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.266105
+                                                AGE_GROUP=Adult, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.264628
+                                        GENDER=FEMALE, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.264628
+                                          AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.264628
+                                            DARK_CONDITIONS, PASSENGER_CAR, SEASON=Fall, VEHICLE=NEW 0.264184
+                       DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.263741
+                                                           GENDER=FEMALE, PASSENGER_CAR, SEASON=Fall 0.263741
+                                                                      GENDER=MALE, TIME_OF_DAY=Night 0.263593
+                                                       GENDER=MALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.263593
+                                                    GENDER=FEMALE, LOCATION=URBAN, TIME_OF_DAY=Night 0.263593
+                                      DARK_CONDITIONS, GENDER=MALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.263446
+                                                     DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night 0.263446
+                 LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.263002
+                                   DARK_CONDITIONS, GENDER=FEMALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.262855
+                                   DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, TIME_OF_DAY=Night 0.262559
+DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.262411
+                                              AGE_GROUP=Adult, DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.262411
+                                                            LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.261968
+                   AGE_GROUP=Adult, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.261820
+                                                     INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Night 0.261525
+                                    DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Night 0.260786
+                              AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.260343
+                                                 DARK_CONDITIONS, INTERSECTION, WEEKEND_FLAG=Weekday 0.259013
+                                                             GENDER=MALE, PASSENGER_CAR, VEHICLE=NEW 0.257240
+                                                                            GENDER=MALE, VEHICLE=NEW 0.257240
+                                                        DARK_CONDITIONS, LOCATION=URBAN, SEASON=Fall 0.257240
+                                  GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.256944
+                                                                          SEASON=Winter, VEHICLE=NEW 0.256649
+                                      AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN 0.256353
+                                            GENDER=FEMALE, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.256206
+                                 DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.256058
+                                                        DARK_CONDITIONS, GENDER=FEMALE, INTERSECTION 0.254876
+         AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.254876
+                                                     INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.254580
+                                      INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.254285
+                               AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.253989
+                                                                        AGE_GROUP=Adult, SEASON=Fall 0.253842
+                           AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.253694
+                     DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.253546
+                    DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.253251
+                                             LOCATION=URBAN, PASSENGER_CAR, SEASON=Fall, VEHICLE=NEW 0.252364
+                                  DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.252216
+               AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.251773
+                                                  INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.251773
+                                                           DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW 0.250443
+                                            DARK_CONDITIONS, GENDER=MALE, PASSENGER_CAR, VEHICLE=NEW 0.250443
+                                                      GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Night 0.250296
+                                       GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.250296
+                                     DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Night 0.250148
+                      DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.250148
+                                         DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, SEASON=Fall 0.249704
+                       AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR 0.249557
+                                                           PASSENGER_CAR, SEASON=Winter, VEHICLE=NEW 0.249113
+                                                AGE_GROUP=Adult, GENDER=FEMALE, WEEKEND_FLAG=Weekend 0.248375
+                                DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.247636
+                                         AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, VEHICLE=NEW 0.247340
+                                     GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.247045
+                                                                       LOCATION=URBAN, SEASON=Winter 0.246897
+                    DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night 0.246011
+                                                  INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.244976
+                                      INTERSECTION, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.244681
+                                    GENDER=FEMALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.244681
+                                         DARK_CONDITIONS, GENDER=FEMALE, INTERSECTION, PASSENGER_CAR 0.243942
+                                                         AGE_GROUP=Adult, PASSENGER_CAR, SEASON=Fall 0.243647
+                             GENDER=FEMALE, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.242465
+                                   INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.242169
+                                                            GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.240691
+                                             GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.240691
+                                                         DARK_CONDITIONS, SEASON=Winter, VEHICLE=NEW 0.240544
+                          AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR, VEHICLE=NEW 0.240100
+                                                     INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.239362
+                                                        AGE_GROUP=Adult, GENDER=FEMALE, INTERSECTION 0.238918
+                 DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.238771
+                                                             TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.238623
+                                                        LOCATION=URBAN, PASSENGER_CAR, SEASON=Winter 0.238327
+                                                        INTERSECTION, TIME_OF_DAY=Night, VEHICLE=NEW 0.238327
+                                            DARK_CONDITIONS, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.238180
+                                   INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.238032
+                                                  AGE_GROUP=Adult, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.238032
+                                       DARK_CONDITIONS, INTERSECTION, TIME_OF_DAY=Night, VEHICLE=NEW 0.237589
+                                                             GENDER=FEMALE, SEASON=Fall, VEHICLE=NEW 0.236259
+                                           DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.235372
+                            DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.235372
+                                   DARK_CONDITIONS, GENDER=FEMALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.235077
+                                          DARK_CONDITIONS, PASSENGER_CAR, SEASON=Winter, VEHICLE=NEW 0.234634
+                                 AGE_GROUP=Adult, GENDER=FEMALE, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.233747
+                                          GENDER=MALE, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.233304
+                                                         GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=NEW 0.233304
+                                        DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Night, VEHICLE=NEW 0.233156
+                         DARK_CONDITIONS, GENDER=MALE, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.233156
+                                               AGE_GROUP=Adult, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.232270
+                                      INTERSECTION, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.231678
+                                                      DARK_CONDITIONS, LOCATION=URBAN, SEASON=Winter 0.231383
+                                         INTERSECTION, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.230940
+                 AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.230792
+                        DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.230201
+                                              PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.229758
+                     GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.229610
+                             DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.229314
+                                            AGE_GROUP=Adult, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.228871
+                           AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.228576
+                                   AGE_GROUP=Adult, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.228576
+                                 AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.226655
+                                    GENDER=FEMALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.226359
+                                       GENDER=FEMALE, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.225325
+                                 DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.225030
+                    DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.225030
+                                       DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, SEASON=Winter 0.224882
+                                              GENDER=FEMALE, PASSENGER_CAR, SEASON=Fall, VEHICLE=NEW 0.224586
+                      DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.224439
+                                AGE_GROUP=Adult, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.223700
+                                         AGE_GROUP=Adult, GENDER=FEMALE, INTERSECTION, PASSENGER_CAR 0.223700
+  AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.222813
+                             AGE_GROUP=Adult, PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.221779
+                              AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.221631
+            AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.221483
+                                   AGE_GROUP=Adult, GENDER=FEMALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.221040
+                          GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.220006
+                                         GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.220006
+                        DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.219858
+         DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.219858
+                  DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.219858
+                                                           AGE_GROUP=Adult, SEASON=Fall, VEHICLE=NEW 0.219415
+                                                   AGE_GROUP=Adult, GENDER=FEMALE, TIME_OF_DAY=Night 0.219119
+                                  AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, TIME_OF_DAY=Night 0.218824
+                  AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.218676
+                                    DARK_CONDITIONS, INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.218381
+                                                AGE_GROUP=Adult, GENDER=FEMALE, WEEKEND_FLAG=Weekday 0.217790
+                     GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.216608
+                                           DARK_CONDITIONS, LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.216164
+                         AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.215130
+                                        INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.214835
+               AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.214539
+                       DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Night, VEHICLE=NEW 0.214096
+                                           DARK_CONDITIONS, GENDER=FEMALE, INTERSECTION, VEHICLE=NEW 0.213505
+                                        DARK_CONDITIONS, GENDER=FEMALE, INTERSECTION, LOCATION=URBAN 0.213505
+                                                                  PASSENGER_CAR, TIME_OF_DAY=Evening 0.212618
+                                                                  GENDER=FEMALE, TIME_OF_DAY=Evening 0.212618
+                                                   GENDER=FEMALE, PASSENGER_CAR, TIME_OF_DAY=Evening 0.212618
+                                                                                 TIME_OF_DAY=Evening 0.212618
+                     DARK_CONDITIONS, INTERSECTION, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.212470
+                                            AGE_GROUP=Adult, PASSENGER_CAR, SEASON=Fall, VEHICLE=NEW 0.210254
+                        GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.210254
+                                                          LOCATION=URBAN, SEASON=Winter, VEHICLE=NEW 0.210254
+                                DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.209663
+                            DARK_CONDITIONS, LOCATION=URBAN, PASSENGER_CAR, SEASON=Fall, VEHICLE=NEW 0.209663
+       DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.209368
+          AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW 0.209368
+                         INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.209072
+                                                         DARK_CONDITIONS, GENDER=FEMALE, SEASON=Fall 0.209072
+                   DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.208481
+        DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR, TIME_OF_DAY=Night, VEHICLE=NEW 0.208333
+                                                                           GENDER=MALE, INTERSECTION 0.208186
+                                                            GENDER=MALE, INTERSECTION, PASSENGER_CAR 0.208186
+                                 AGE_GROUP=Adult, GENDER=FEMALE, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.207890
+                                                       AGE_GROUP=Adult, DARK_CONDITIONS, SEASON=Fall 0.207595
+                    AGE_GROUP=Adult, GENDER=FEMALE, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.207447
+                                     INTERSECTION, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.207299
+                                                                           INTERSECTION, SEASON=Fall 0.206708
+                                             LOCATION=URBAN, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.206560
+                                           AGE_GROUP=Adult, GENDER=FEMALE, INTERSECTION, VEHICLE=NEW 0.206560
+                            DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekday 0.206117
+                               AGE_GROUP=Adult, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.205969
+              AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.205674
+                               AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, WEEKEND_FLAG=Weekday 0.205674
+                                     INTERSECTION, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.205674
+                                                TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.205378
+                               DARK_CONDITIONS, TIME_OF_DAY=Night, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.204935
+                                    AGE_GROUP=Adult, GENDER=FEMALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.204787
+                         DARK_CONDITIONS, GENDER=FEMALE, INTERSECTION, LOCATION=URBAN, PASSENGER_CAR 0.204492
+                            DARK_CONDITIONS, GENDER=FEMALE, INTERSECTION, PASSENGER_CAR, VEHICLE=NEW 0.204492
+                   AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, TIME_OF_DAY=Night 0.204492
+                                                          GENDER=FEMALE, LOCATION=URBAN, SEASON=Fall 0.203901
+                            AGE_GROUP=Adult, LOCATION=URBAN, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.203014
+                                           LOCATION=URBAN, PASSENGER_CAR, SEASON=Winter, VEHICLE=NEW 0.203014
+                                                        AGE_GROUP=Adult, LOCATION=URBAN, SEASON=Fall 0.202719
+           AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Night, WEEKEND_FLAG=Weekend 0.202719
+                                                    GENDER=MALE, PASSENGER_CAR, WEEKEND_FLAG=Weekend 0.201241
+                                                                   GENDER=MALE, WEEKEND_FLAG=Weekend 0.201241
+                                        AGE_GROUP=Adult, DARK_CONDITIONS, PASSENGER_CAR, SEASON=Fall 0.201093
+                                          DARK_CONDITIONS, GENDER=FEMALE, PASSENGER_CAR, SEASON=Fall 0.200502
+    DARK_CONDITIONS, GENDER=FEMALE, LOCATION=URBAN, PASSENGER_CAR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.200502
+                                                                      AGE_GROUP=Adult, SEASON=Winter 0.200059

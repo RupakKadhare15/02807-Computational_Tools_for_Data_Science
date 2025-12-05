@@ -1,0 +1,231 @@
+CLUSTER 1 - Frequent Itemsets [MLXTEND] (Support >= 0.2)
+Total Transactions: 5653
+============================================================
+
+                                                                        Itemset  Support
+                                                           WEEKEND_FLAG=Weekday 0.943216
+                                                                    GENDER=MALE 0.820626
+                                              GENDER=MALE, WEEKEND_FLAG=Weekday 0.773041
+                                                                 LOCATION=RURAL 0.699982
+                                                                      RUSH_HOUR 0.693437
+                                                RUSH_HOUR, WEEKEND_FLAG=Weekday 0.693437
+                                                                AGE_GROUP=Adult 0.670971
+                                           LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.655935
+                                          AGE_GROUP=Adult, WEEKEND_FLAG=Weekday 0.632761
+                                                                    VEHICLE=OLD 0.626039
+                                                                   INTERSECTION 0.597028
+                                              VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.583230
+                                                    GENDER=MALE, LOCATION=RURAL 0.566248
+                                             INTERSECTION, WEEKEND_FLAG=Weekday 0.556165
+                                                   AGE_GROUP=Adult, GENDER=MALE 0.554219
+                                   GENDER=MALE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.552450
+                                                         GENDER=MALE, RUSH_HOUR 0.552450
+                                                            TIME_OF_DAY=Morning 0.537414
+                              GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.529630
+                                                                ADVERSE_WEATHER 0.527684
+                             AGE_GROUP=Adult, GENDER=MALE, WEEKEND_FLAG=Weekday 0.522377
+                                                       GENDER=MALE, VEHICLE=OLD 0.522024
+                                      TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.501681
+                                                      GENDER=MALE, INTERSECTION 0.493720
+                                 GENDER=MALE, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.486821
+                                          ADVERSE_WEATHER, WEEKEND_FLAG=Weekday 0.482929
+                               AGE_GROUP=Adult, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.467539
+                                                     AGE_GROUP=Adult, RUSH_HOUR 0.467539
+                                                      LOCATION=RURAL, RUSH_HOUR 0.463471
+                                LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.463471
+                                                AGE_GROUP=Adult, LOCATION=RURAL 0.462586
+                                GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekday 0.459402
+                          AGE_GROUP=Adult, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.432514
+                                               GENDER=MALE, TIME_OF_DAY=Morning 0.425261
+                                                   ADVERSE_WEATHER, GENDER=MALE 0.424200
+                                                    LOCATION=RURAL, VEHICLE=OLD 0.418716
+                                                         RUSH_HOUR, VEHICLE=OLD 0.410402
+                                   RUSH_HOUR, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.410402
+                                                   AGE_GROUP=Adult, VEHICLE=OLD 0.406333
+                                                  AGE_GROUP=Adult, INTERSECTION 0.395896
+                         GENDER=MALE, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.395542
+                             ADVERSE_WEATHER, GENDER=MALE, WEEKEND_FLAG=Weekday 0.386874
+                              LOCATION=RURAL, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.386520
+                                  INTERSECTION, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.380329
+                                                        INTERSECTION, RUSH_HOUR 0.380329
+                             AGE_GROUP=Adult, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.378737
+                                        AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR 0.375907
+                  AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.375907
+                                   AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL 0.374845
+                                                                    VEHICLE=NEW 0.373961
+                                            LOCATION=RURAL, TIME_OF_DAY=Morning 0.370600
+                            AGE_GROUP=Adult, INTERSECTION, WEEKEND_FLAG=Weekday 0.369008
+                                           AGE_GROUP=Adult, TIME_OF_DAY=Morning 0.361401
+                                         GENDER=MALE, LOCATION=RURAL, RUSH_HOUR 0.360693
+                   GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.360693
+                                              VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.359986
+                                                                  SEASON=Winter 0.359278
+                                               ADVERSE_WEATHER, AGE_GROUP=Adult 0.358748
+                                                   INTERSECTION, LOCATION=RURAL 0.358217
+                                                ADVERSE_WEATHER, LOCATION=RURAL 0.355740
+                                                 RUSH_HOUR, TIME_OF_DAY=Morning 0.354856
+                           RUSH_HOUR, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.354856
+                                                      INTERSECTION, VEHICLE=OLD 0.352733
+             AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.349903
+                                       GENDER=MALE, LOCATION=RURAL, VEHICLE=OLD 0.346011
+                      LOCATION=RURAL, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.344242
+                                      AGE_GROUP=Adult, GENDER=MALE, VEHICLE=OLD 0.341942
+                     AGE_GROUP=Adult, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.336812
+                      GENDER=MALE, RUSH_HOUR, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.335220
+                                            GENDER=MALE, RUSH_HOUR, VEHICLE=OLD 0.335220
+                                     AGE_GROUP=Adult, GENDER=MALE, INTERSECTION 0.332567
+                                            SEASON=Winter, WEEKEND_FLAG=Weekday 0.330975
+                         ADVERSE_WEATHER, AGE_GROUP=Adult, WEEKEND_FLAG=Weekday 0.328498
+                             INTERSECTION, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.328144
+                                INTERSECTION, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.322484
+                          ADVERSE_WEATHER, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.322307
+                 GENDER=MALE, LOCATION=RURAL, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.320007
+                AGE_GROUP=Adult, GENDER=MALE, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.319476
+                               ADVERSE_WEATHER, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.318238
+                                                     ADVERSE_WEATHER, RUSH_HOUR 0.318238
+               AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekday 0.310278
+               AGE_GROUP=Adult, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.307447
+                                     AGE_GROUP=Adult, LOCATION=RURAL, RUSH_HOUR 0.307447
+                                           GENDER=MALE, INTERSECTION, RUSH_HOUR 0.304617
+                     GENDER=MALE, INTERSECTION, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.304617
+                                                                 LOCATION=URBAN 0.300018
+                                                       GENDER=MALE, VEHICLE=NEW 0.298603
+                                                                  PASSENGER_CAR 0.296480
+                                         GENDER=MALE, INTERSECTION, VEHICLE=OLD 0.295241
+                                                     GENDER=MALE, SEASON=Winter 0.294357
+                                      GENDER=MALE, INTERSECTION, LOCATION=RURAL 0.291704
+                               GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Morning 0.290642
+                                  ADVERSE_WEATHER, AGE_GROUP=Adult, GENDER=MALE 0.289935
+                                              INTERSECTION, TIME_OF_DAY=Morning 0.287989
+                                           LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.287281
+                                                   ADVERSE_WEATHER, VEHICLE=OLD 0.286750
+                              AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Morning 0.286574
+                                 GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.286220
+                                   RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.283036
+                                                         RUSH_HOUR, VEHICLE=NEW 0.283036
+                                            PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.282682
+                                               TIME_OF_DAY=Morning, VEHICLE=OLD 0.282151
+                                                    LOCATION=RURAL, VEHICLE=NEW 0.281267
+                                   ADVERSE_WEATHER, GENDER=MALE, LOCATION=RURAL 0.280736
+                                           ADVERSE_WEATHER, TIME_OF_DAY=Morning 0.279675
+                               GENDER=MALE, SEASON=Winter, WEEKEND_FLAG=Weekday 0.271007
+                   GENDER=MALE, INTERSECTION, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.270476
+                              LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.269414
+         GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.268707
+                                        AGE_GROUP=Adult, RUSH_HOUR, VEHICLE=OLD 0.267469
+                  AGE_GROUP=Adult, RUSH_HOUR, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.267469
+                GENDER=MALE, INTERSECTION, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.266761
+                                   AGE_GROUP=Adult, LOCATION=RURAL, VEHICLE=OLD 0.266761
+              GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.266407
+                                    GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Morning 0.266407
+                                                          TIME_OF_DAY=Afternoon 0.266053
+        AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.266053
+                        INTERSECTION, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.265523
+            ADVERSE_WEATHER, AGE_GROUP=Adult, GENDER=MALE, WEEKEND_FLAG=Weekday 0.264815
+                                                   AGE_GROUP=Adult, VEHICLE=NEW 0.264638
+                                                                    SEASON=Fall 0.264461
+                                                  ADVERSE_WEATHER, INTERSECTION 0.264284
+                                         LOCATION=RURAL, RUSH_HOUR, VEHICLE=OLD 0.260923
+                   LOCATION=RURAL, RUSH_HOUR, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.260923
+                                                                  SEASON=Spring 0.259154
+                         TIME_OF_DAY=Morning, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.256324
+                                               TIME_OF_DAY=Morning, VEHICLE=NEW 0.255263
+                             ADVERSE_WEATHER, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.254909
+                                                    GENDER=MALE, LOCATION=URBAN 0.254378
+                             AGE_GROUP=Adult, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.254024
+                     ADVERSE_WEATHER, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.253671
+             ADVERSE_WEATHER, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.253140
+                                       AGE_GROUP=Adult, INTERSECTION, RUSH_HOUR 0.252963
+                 AGE_GROUP=Adult, INTERSECTION, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.252963
+                                              SEASON=Fall, WEEKEND_FLAG=Weekday 0.252432
+                                            SEASON=Spring, WEEKEND_FLAG=Weekday 0.250310
+                           AGE_GROUP=Adult, LOCATION=RURAL, TIME_OF_DAY=Morning 0.248717
+                                    TIME_OF_DAY=Afternoon, WEEKEND_FLAG=Weekday 0.248010
+             AGE_GROUP=Adult, LOCATION=RURAL, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.245533
+                         TIME_OF_DAY=Morning, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.245356
+                                                      INTERSECTION, VEHICLE=NEW 0.244295
+                                                 AGE_GROUP=Adult, SEASON=Winter 0.243764
+                              GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.243411
+                  ADVERSE_WEATHER, GENDER=MALE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.241819
+                                        ADVERSE_WEATHER, GENDER=MALE, RUSH_HOUR 0.241819
+                                                   ADVERSE_WEATHER, VEHICLE=NEW 0.240934
+  AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.240050
+                        AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, RUSH_HOUR 0.240050
+                                AGE_GROUP=Adult, RUSH_HOUR, TIME_OF_DAY=Morning 0.239519
+          AGE_GROUP=Adult, RUSH_HOUR, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.239519
+                                                  LOCATION=RURAL, SEASON=Winter 0.238811
+                                                   INTERSECTION, LOCATION=URBAN 0.238811
+                               ADVERSE_WEATHER, AGE_GROUP=Adult, LOCATION=RURAL 0.237396
+                                 PASSENGER_CAR, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.236512
+                                      ADVERSE_WEATHER, GENDER=MALE, VEHICLE=OLD 0.236512
+                                                       PASSENGER_CAR, RUSH_HOUR 0.236512
+                            ADVERSE_WEATHER, INTERSECTION, WEEKEND_FLAG=Weekday 0.235450
+                                INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.233681
+                                                       RUSH_HOUR, SEASON=Winter 0.232797
+                                 RUSH_HOUR, SEASON=Winter, WEEKEND_FLAG=Weekday 0.232797
+                                 LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Morning 0.232089
+           LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.232089
+                                  AGE_GROUP=Adult, INTERSECTION, LOCATION=RURAL 0.230497
+     AGE_GROUP=Adult, LOCATION=RURAL, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.230143
+                                                      LOCATION=URBAN, RUSH_HOUR 0.229966
+                                LOCATION=URBAN, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.229966
+                                 GENDER=MALE, INTERSECTION, TIME_OF_DAY=Morning 0.228728
+                             INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.228021
+                             ADVERSE_WEATHER, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.228021
+                                     AGE_GROUP=Adult, INTERSECTION, VEHICLE=OLD 0.227313
+                                             GENDER=MALE, TIME_OF_DAY=Afternoon 0.226959
+                                  GENDER=MALE, TIME_OF_DAY=Morning, VEHICLE=OLD 0.226075
+                           AGE_GROUP=Adult, SEASON=Winter, WEEKEND_FLAG=Weekday 0.223952
+                      AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, VEHICLE=OLD 0.221829
+     AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.221829
+                           AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, VEHICLE=OLD 0.221829
+                                                  LOCATION=RURAL, PASSENGER_CAR 0.220945
+                                       GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW 0.220237
+                                                                DARK_CONDITIONS 0.218999
+                            LOCATION=RURAL, SEASON=Winter, WEEKEND_FLAG=Weekday 0.218291
+              ADVERSE_WEATHER, AGE_GROUP=Adult, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.217407
+                                                     SEASON=Winter, VEHICLE=OLD 0.217407
+                                    ADVERSE_WEATHER, AGE_GROUP=Adult, RUSH_HOUR 0.217407
+                      GENDER=MALE, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.217230
+                                            GENDER=MALE, RUSH_HOUR, VEHICLE=NEW 0.217230
+                                          DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.216699
+                              ADVERSE_WEATHER, GENDER=MALE, TIME_OF_DAY=Morning 0.215992
+                                     ADVERSE_WEATHER, GENDER=MALE, INTERSECTION 0.215461
+         ADVERSE_WEATHER, AGE_GROUP=Adult, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.214399
+                                                 ADVERSE_WEATHER, SEASON=Winter 0.213515
+                                                       GENDER=MALE, SEASON=Fall 0.212630
+                                      AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW 0.212277
+                       GENDER=MALE, TIME_OF_DAY=Afternoon, WEEKEND_FLAG=Weekday 0.211923
+                            GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, VEHICLE=OLD 0.210685
+                ADVERSE_WEATHER, GENDER=MALE, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.210685
+      GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.210685
+            AGE_GROUP=Adult, INTERSECTION, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.210685
+                            LOCATION=RURAL, PASSENGER_CAR, WEEKEND_FLAG=Weekday 0.209800
+           GENDER=MALE, INTERSECTION, TIME_OF_DAY=Morning, WEEKEND_FLAG=Weekday 0.209623
+                 GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.209623
+               AGE_GROUP=Adult, INTERSECTION, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.208385
+                                                AGE_GROUP=Adult, LOCATION=URBAN 0.208385
+                                                     GENDER=MALE, SEASON=Spring 0.208208
+                          AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, RUSH_HOUR 0.207854
+    AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.207854
+                                                    LOCATION=URBAN, VEHICLE=OLD 0.207324
+                                           INTERSECTION, RUSH_HOUR, VEHICLE=OLD 0.205024
+                     INTERSECTION, RUSH_HOUR, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.205024
+            GENDER=MALE, TIME_OF_DAY=Morning, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.204847
+AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, VEHICLE=OLD, WEEKEND_FLAG=Weekday 0.204670
+                  INTERSECTION, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.204670
+                                        INTERSECTION, LOCATION=RURAL, RUSH_HOUR 0.204670
+                AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.202901
+                                          LOCATION=RURAL, TIME_OF_DAY=Afternoon 0.202724
+                   LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.202547
+                                         LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW 0.202547
+                                     ADVERSE_WEATHER, LOCATION=RURAL, RUSH_HOUR 0.202194
+               ADVERSE_WEATHER, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.202194
+                                 GENDER=MALE, SEASON=Fall, WEEKEND_FLAG=Weekday 0.202017
+                                      GENDER=MALE, INTERSECTION, LOCATION=URBAN 0.202017
+                               GENDER=MALE, SEASON=Spring, WEEKEND_FLAG=Weekday 0.200955
+                                    AGE_GROUP=Adult, GENDER=MALE, SEASON=Winter 0.200425
+                                                    INTERSECTION, SEASON=Winter 0.200425
+                          AGE_GROUP=Adult, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.200248
+                                        AGE_GROUP=Adult, RUSH_HOUR, VEHICLE=NEW 0.200071
+                  AGE_GROUP=Adult, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.200071

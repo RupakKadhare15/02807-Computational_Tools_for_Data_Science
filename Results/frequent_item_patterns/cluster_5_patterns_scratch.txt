@@ -1,0 +1,434 @@
+CLUSTER 5 - Frequent Itemsets [SCRATCH] (Support >= 0.2)
+Total Transactions: 2856
+============================================================
+
+                                                                                              Itemset  Support
+                                                                                 WEEKEND_FLAG=Weekday 0.942927
+                                                                                          VEHICLE=NEW 0.902311
+                                                                                          GENDER=MALE 0.892857
+                                                                    VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.845238
+                                                                    GENDER=MALE, WEEKEND_FLAG=Weekday 0.836835
+                                                                                      AGE_GROUP=Adult 0.811275
+                                                                             GENDER=MALE, VEHICLE=NEW 0.804622
+                                                                AGE_GROUP=Adult, WEEKEND_FLAG=Weekday 0.766457
+                                                       GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.748599
+                                                                         AGE_GROUP=Adult, VEHICLE=NEW 0.732843
+                                                                                      DARK_CONDITIONS 0.726891
+                                                                         AGE_GROUP=Adult, GENDER=MALE 0.726190
+                                                                DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.688725
+                                                   AGE_GROUP=Adult, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.688025
+                                                                                       LOCATION=RURAL 0.683123
+                                                   AGE_GROUP=Adult, GENDER=MALE, WEEKEND_FLAG=Weekday 0.682423
+                                                            AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW 0.655812
+                                                                         DARK_CONDITIONS, VEHICLE=NEW 0.655812
+                                                                 LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.646359
+                                                                         DARK_CONDITIONS, GENDER=MALE 0.633754
+                                                                          LOCATION=RURAL, VEHICLE=NEW 0.619048
+                                                   DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.617647
+                                      AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.612045
+                                                                          GENDER=MALE, LOCATION=RURAL 0.598389
+                                                   DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekday 0.595938
+                                                                                          LARGE_TRUCK 0.593838
+                                                    LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.582283
+                                                                     AGE_GROUP=Adult, DARK_CONDITIONS 0.576681
+                                                                      RUSH_HOUR, WEEKEND_FLAG=Weekday 0.575280
+                                                                                            RUSH_HOUR 0.575280
+                                                                             GENDER=MALE, LARGE_TRUCK 0.572829
+                                                            DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW 0.571429
+                                                    GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.562325
+                                               AGE_GROUP=Adult, DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.548319
+                                                                             LARGE_TRUCK, VEHICLE=NEW 0.547619
+                                                                    LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.543768
+                                                                      AGE_GROUP=Adult, LOCATION=RURAL 0.541667
+                                                             GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW 0.540266
+                                                                                           INTERSTATE 0.535364
+                                      DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.533613
+                                                                GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW 0.528011
+                                                       GENDER=MALE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.523810
+                                                                         AGE_GROUP=Adult, LARGE_TRUCK 0.521008
+                                                        AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW 0.519608
+                                                AGE_GROUP=Adult, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.515406
+                                       GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.504202
+                                                        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE 0.503852
+                                                            AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK 0.501751
+                                                                                  TIME_OF_DAY=Evening 0.501751
+                                                                              GENDER=MALE, INTERSTATE 0.498249
+                                                       LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.497549
+                                                         RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.497199
+                                                                               RUSH_HOUR, VEHICLE=NEW 0.497199
+                                  AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.491246
+                                                         AGE_GROUP=Adult, LOCATION=RURAL, VEHICLE=NEW 0.488796
+                                                                               GENDER=MALE, RUSH_HOUR 0.488095
+                                                         GENDER=MALE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.488095
+                                                                              INTERSTATE, VEHICLE=NEW 0.488095
+                                                                     INTERSTATE, WEEKEND_FLAG=Weekday 0.481793
+                                                            AGE_GROUP=Adult, LARGE_TRUCK, VEHICLE=NEW 0.481443
+                                                                                          SEASON=Fall 0.481092
+                                                   AGE_GROUP=Adult, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.479692
+                                          GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.478992
+                                                            TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.477591
+                                  AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekday 0.475840
+                                                         AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL 0.475490
+                                                                      DARK_CONDITIONS, LOCATION=RURAL 0.464636
+                                               AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW 0.463585
+                                   AGE_GROUP=Adult, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.462535
+                                      AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.461485
+                                                                 GENDER=MALE, INTERSTATE, VEHICLE=NEW 0.455532
+                                           AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW 0.454482
+                                                                          AGE_GROUP=Adult, INTERSTATE 0.451681
+                                   AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.449930
+                                                     AGE_GROUP=Adult, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.447129
+                                                                           AGE_GROUP=Adult, RUSH_HOUR 0.447129
+                                                        GENDER=MALE, INTERSTATE, WEEKEND_FLAG=Weekday 0.445728
+                                                DARK_CONDITIONS, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.442927
+                                                                    SEASON=Fall, WEEKEND_FLAG=Weekday 0.441527
+                                      AGE_GROUP=Adult, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.440126
+                                                                 DARK_CONDITIONS, TIME_OF_DAY=Evening 0.435224
+                                                        INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.434524
+                                                                     TIME_OF_DAY=Evening, VEHICLE=NEW 0.432073
+                                                                             GENDER=MALE, SEASON=Fall 0.431373
+                                            AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW 0.428221
+                     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.426471
+                         AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.423319
+                                                             AGE_GROUP=Adult, GENDER=MALE, INTERSTATE 0.420518
+                                                         DARK_CONDITIONS, LOCATION=RURAL, VEHICLE=NEW 0.418067
+                                                                  GENDER=MALE, RUSH_HOUR, VEHICLE=NEW 0.418067
+                                            GENDER=MALE, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.418067
+                                                                     GENDER=MALE, TIME_OF_DAY=Evening 0.414216
+                                           DARK_CONDITIONS, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.414216
+                                                             AGE_GROUP=Adult, INTERSTATE, VEHICLE=NEW 0.411415
+                                                                             SEASON=Fall, VEHICLE=NEW 0.411064
+                                                      LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.410364
+                                                                            LOCATION=RURAL, RUSH_HOUR 0.410364
+                                                    AGE_GROUP=Adult, INTERSTATE, WEEKEND_FLAG=Weekday 0.408964
+                                               TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.407913
+                                           GENDER=MALE, INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.403011
+                      AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.402661
+                                   DARK_CONDITIONS, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.396359
+                                                       GENDER=MALE, SEASON=Fall, WEEKEND_FLAG=Weekday 0.392507
+                                                         DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL 0.391457
+                                               GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.390406
+                                                                          LARGE_TRUCK, LOCATION=RURAL 0.385854
+                                        AGE_GROUP=Adult, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.385504
+                                                              AGE_GROUP=Adult, RUSH_HOUR, VEHICLE=NEW 0.385504
+                                                AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, VEHICLE=NEW 0.383754
+                                                              AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR 0.379552
+                                        AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.379552
+                                                                 AGE_GROUP=Adult, TIME_OF_DAY=Evening 0.379552
+                                       AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, WEEKEND_FLAG=Weekday 0.378852
+                                                                         AGE_GROUP=Adult, SEASON=Fall 0.377451
+                                                    DARK_CONDITIONS, TIME_OF_DAY=Evening, VEHICLE=NEW 0.375350
+                                                             GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL 0.371849
+                                                       SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.371499
+                                                                         DARK_CONDITIONS, LARGE_TRUCK 0.370798
+                                   DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.370098
+                                                                       RUSH_HOUR, TIME_OF_DAY=Evening 0.370098
+                                                                         DARK_CONDITIONS, SEASON=Fall 0.370098
+                                                 RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.370098
+                                                                GENDER=MALE, SEASON=Fall, VEHICLE=NEW 0.369398
+                                                                           DARK_CONDITIONS, RUSH_HOUR 0.369048
+                                                     DARK_CONDITIONS, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.369048
+                                       AGE_GROUP=Adult, INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.368697
+                                                                              INTERSTATE, LARGE_TRUCK 0.368697
+                                           AGE_GROUP=Adult, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.362745
+                                                               LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW 0.357843
+                                         LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.357843
+                                                            DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK 0.357143
+                                                     AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL 0.357143
+                                                                 GENDER=MALE, INTERSTATE, LARGE_TRUCK 0.356793
+                                                    LARGE_TRUCK, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.356092
+                                                             LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW 0.356092
+                                                                          DARK_CONDITIONS, INTERSTATE 0.355392
+                              DARK_CONDITIONS, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.354342
+                                                    DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening 0.353291
+                                                        GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.352591
+                                            DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW 0.350840
+                                                   AGE_GROUP=Adult, SEASON=Fall, WEEKEND_FLAG=Weekday 0.347339
+                                                                  LOCATION=RURAL, TIME_OF_DAY=Evening 0.346989
+                                                            DARK_CONDITIONS, LARGE_TRUCK, VEHICLE=NEW 0.345238
+                               AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.343487
+                                       GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.342787
+                                                GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW 0.342787
+                          AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.342087
+                                                   DARK_CONDITIONS, SEASON=Fall, WEEKEND_FLAG=Weekday 0.341036
+                                         GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.341036
+                                                               GENDER=MALE, LOCATION=RURAL, RUSH_HOUR 0.341036
+                                                   DARK_CONDITIONS, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.339636
+                                                            AGE_GROUP=Adult, GENDER=MALE, SEASON=Fall 0.339636
+                                                                 INTERSTATE, LARGE_TRUCK, VEHICLE=NEW 0.338936
+                                                         AGE_GROUP=Adult, LARGE_TRUCK, LOCATION=RURAL 0.333333
+                                               DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW 0.332633
+                              DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.332283
+                                                             DARK_CONDITIONS, INTERSTATE, VEHICLE=NEW 0.331232
+                                          GENDER=MALE, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.330532
+                                            LOCATION=RURAL, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.330182
+                      DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.329482
+                                  GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.328782
+                                                                          LOCATION=RURAL, SEASON=Fall 0.328431
+                                                             AGE_GROUP=Adult, INTERSTATE, LARGE_TRUCK 0.328431
+                                                    GENDER=MALE, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW 0.328081
+                                                             DARK_CONDITIONS, GENDER=MALE, INTERSTATE 0.326681
+                                       LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.326331
+                                      DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.326331
+                                                AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Evening 0.325630
+                                                    AGE_GROUP=Adult, TIME_OF_DAY=Evening, VEHICLE=NEW 0.325280
+                                                            DARK_CONDITIONS, GENDER=MALE, SEASON=Fall 0.324580
+                                                 AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, VEHICLE=NEW 0.324580
+                           AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.324580
+                                                        AGE_GROUP=Adult, DARK_CONDITIONS, LARGE_TRUCK 0.323529
+                                                            AGE_GROUP=Adult, SEASON=Fall, VEHICLE=NEW 0.322829
+                                                        INTERSTATE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.322129
+                                                    DARK_CONDITIONS, INTERSTATE, WEEKEND_FLAG=Weekday 0.320728
+                                            AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL 0.320728
+                                        AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL, VEHICLE=NEW 0.317927
+                                                AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, LARGE_TRUCK 0.317227
+                                                                                       LOCATION=URBAN 0.316877
+                                                                           INTERSTATE, LOCATION=RURAL 0.315476
+                                      DARK_CONDITIONS, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.314076
+                                                              DARK_CONDITIONS, RUSH_HOUR, VEHICLE=NEW 0.313725
+                          GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.313725
+                                        DARK_CONDITIONS, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.313725
+                                                    AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Evening 0.313025
+                                     AGE_GROUP=Adult, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.313025
+                                                           AGE_GROUP=Adult, LOCATION=RURAL, RUSH_HOUR 0.313025
+                          AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.311975
+                                                            DARK_CONDITIONS, SEASON=Fall, VEHICLE=NEW 0.311275
+                                           AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK 0.311275
+                                           GENDER=MALE, INTERSTATE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.311275
+                                   AGE_GROUP=Adult, LARGE_TRUCK, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.310574
+                                    RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.310224
+                                      AGE_GROUP=Adult, GENDER=MALE, SEASON=Fall, WEEKEND_FLAG=Weekday 0.310224
+                                                          RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW 0.310224
+                              AGE_GROUP=Adult, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.308473
+                                            AGE_GROUP=Adult, LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW 0.308473
+                                DARK_CONDITIONS, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.307073
+                                                      DARK_CONDITIONS, RUSH_HOUR, TIME_OF_DAY=Evening 0.307073
+                                                DARK_CONDITIONS, GENDER=MALE, INTERSTATE, VEHICLE=NEW 0.306373
+                  AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.304272
+                                                    LOCATION=RURAL, SEASON=Fall, WEEKEND_FLAG=Weekday 0.302521
+                                                AGE_GROUP=Adult, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW 0.302171
+                         DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.301821
+                                                     LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW 0.301821
+                                        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL 0.301120
+                                       DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.301120
+                                           AGE_GROUP=Adult, DARK_CONDITIONS, LARGE_TRUCK, VEHICLE=NEW 0.300420
+                      AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.298669
+                                  AGE_GROUP=Adult, DARK_CONDITIONS, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.298669
+                                                 DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Evening 0.297969
+                               AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW 0.296569
+                                       DARK_CONDITIONS, INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.296569
+                              AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.296569
+                                                                 LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.296569
+                                      DARK_CONDITIONS, GENDER=MALE, SEASON=Fall, WEEKEND_FLAG=Weekday 0.295868
+                                                         AGE_GROUP=Adult, DARK_CONDITIONS, INTERSTATE 0.295168
+                                                                          GENDER=MALE, LOCATION=URBAN 0.294468
+                            GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.293768
+                                                  GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW 0.293768
+                                                              GENDER=MALE, INTERSTATE, LOCATION=RURAL 0.293768
+                                        DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.293417
+                                                              DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR 0.293417
+                                                          GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening 0.293417
+                                    GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.293417
+                                      AGE_GROUP=Adult, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.292717
+                                       DARK_CONDITIONS, GENDER=MALE, INTERSTATE, WEEKEND_FLAG=Weekday 0.292367
+                                           INTERSTATE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.292367
+                                               AGE_GROUP=Adult, GENDER=MALE, SEASON=Fall, VEHICLE=NEW 0.292367
+                                   AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW 0.292017
+                                                              INTERSTATE, LOCATION=RURAL, VEHICLE=NEW 0.291317
+                              AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW 0.289216
+                                       AGE_GROUP=Adult, INTERSTATE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.289216
+                                                             GENDER=MALE, LOCATION=RURAL, SEASON=Fall 0.288866
+                  AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.287815
+                     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.286765
+                      AGE_GROUP=Adult, LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.285714
+                                                        AGE_GROUP=Adult, DARK_CONDITIONS, SEASON=Fall 0.285014
+                               LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.285014
+                                                                          LOCATION=URBAN, VEHICLE=NEW 0.283263
+                           DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.282563
+                              GENDER=MALE, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.282563
+                                                     INTERSTATE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.282213
+                                      DARK_CONDITIONS, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.282213
+                 DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.280112
+                                                             LOCATION=RURAL, SEASON=Fall, VEHICLE=NEW 0.279762
+                          AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, LARGE_TRUCK, WEEKEND_FLAG=Weekday 0.279062
+                                   AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Evening, VEHICLE=NEW 0.279062
+                                                     GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Evening 0.276961
+                     AGE_GROUP=Adult, DARK_CONDITIONS, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.275560
+                                                      AGE_GROUP=Adult, RUSH_HOUR, TIME_OF_DAY=Evening 0.274860
+                                AGE_GROUP=Adult, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.274860
+                                                    GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.274510
+         AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.274510
+                                            AGE_GROUP=Adult, DARK_CONDITIONS, INTERSTATE, VEHICLE=NEW 0.274160
+                                               DARK_CONDITIONS, GENDER=MALE, SEASON=Fall, VEHICLE=NEW 0.273810
+                          DARK_CONDITIONS, GENDER=MALE, INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.272059
+                                                          AGE_GROUP=Adult, DARK_CONDITIONS, RUSH_HOUR 0.271359
+                                    AGE_GROUP=Adult, DARK_CONDITIONS, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.271359
+                                            AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSTATE 0.271008
+                                                 GENDER=MALE, INTERSTATE, LOCATION=RURAL, VEHICLE=NEW 0.271008
+                                              AGE_GROUP=Adult, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW 0.270308
+                        AGE_GROUP=Adult, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.270308
+                                                                      AGE_GROUP=Adult, LOCATION=URBAN 0.269608
+                                   AGE_GROUP=Adult, DARK_CONDITIONS, INTERSTATE, WEEKEND_FLAG=Weekday 0.268908
+                           AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW 0.267507
+                                       AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.265406
+             AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.265406
+        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.264706
+                                                             GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.264356
+                                       GENDER=MALE, LOCATION=RURAL, SEASON=Fall, WEEKEND_FLAG=Weekday 0.263655
+                                  AGE_GROUP=Adult, DARK_CONDITIONS, SEASON=Fall, WEEKEND_FLAG=Weekday 0.263655
+                                   AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening 0.263655
+                          AGE_GROUP=Adult, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.262955
+                                                    LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.262955
+                         AGE_GROUP=Adult, GENDER=MALE, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.262955
+                                                                               RUSH_HOUR, SEASON=Fall 0.262255
+                                                         RUSH_HOUR, SEASON=Fall, WEEKEND_FLAG=Weekday 0.262255
+                                                                      DARK_CONDITIONS, LOCATION=URBAN 0.262255
+                                        GENDER=MALE, INTERSTATE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.261204
+                                                          AGE_GROUP=Adult, INTERSTATE, LOCATION=RURAL 0.260154
+                               GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.260154
+                        AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.259804
+                                              AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, RUSH_HOUR 0.259804
+                                    DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW 0.258754
+                                        INTERSTATE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.258053
+                                         DARK_CONDITIONS, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW 0.257003
+                   DARK_CONDITIONS, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.257003
+                                                 AGE_GROUP=Adult, LOCATION=RURAL, TIME_OF_DAY=Evening 0.254902
+     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.254202
+             AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.253852
+                                       LOCATION=RURAL, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.253852
+                                                         AGE_GROUP=Adult, LOCATION=RURAL, SEASON=Fall 0.253501
+                               AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSTATE, VEHICLE=NEW 0.253151
+                                                                             LARGE_TRUCK, SEASON=Fall 0.252801
+                                 LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.252801
+                                                       LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Evening 0.252801
+                                                AGE_GROUP=Adult, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.251050
+                                                           DARK_CONDITIONS, LOCATION=RURAL, RUSH_HOUR 0.251050
+                                     DARK_CONDITIONS, LOCATION=RURAL, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.251050
+                                           AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, SEASON=Fall 0.250700
+                                                         AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN 0.250700
+             AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.250000
+                                                         LARGE_TRUCK, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.249650
+                                                                               LARGE_TRUCK, RUSH_HOUR 0.249650
+                 AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.248950
+                      AGE_GROUP=Adult, DARK_CONDITIONS, INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.247899
+                                                                GENDER=MALE, LARGE_TRUCK, SEASON=Fall 0.246148
+                                                DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.245798
+                                                GENDER=MALE, LOCATION=RURAL, SEASON=Fall, VEHICLE=NEW 0.245798
+                           DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.245448
+                                                 DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR, VEHICLE=NEW 0.245448
+                         DARK_CONDITIONS, GENDER=MALE, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.245098
+                           AGE_GROUP=Adult, LOCATION=RURAL, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.245098
+                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSTATE, WEEKEND_FLAG=Weekday 0.245098
+                                       GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.244398
+                                                         AGE_GROUP=Adult, LOCATION=URBAN, VEHICLE=NEW 0.244048
+              DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.243347
+                                                         DARK_CONDITIONS, LOCATION=RURAL, SEASON=Fall 0.242647
+                                                         DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN 0.242297
+                                             AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, LOCATION=RURAL 0.241947
+                       GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.240896
+                                             GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW 0.240896
+                                            GENDER=MALE, LARGE_TRUCK, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.239146
+                                           AGE_GROUP=Adult, DARK_CONDITIONS, SEASON=Fall, VEHICLE=NEW 0.239146
+                                                                  GENDER=MALE, LARGE_TRUCK, RUSH_HOUR 0.239146
+                                             AGE_GROUP=Adult, INTERSTATE, LOCATION=RURAL, VEHICLE=NEW 0.238796
+                           GENDER=MALE, INTERSTATE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.238445
+                                                         DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW 0.237745
+                                        GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW 0.237045
+                                    AGE_GROUP=Adult, INTERSTATE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.235994
+                                   AGE_GROUP=Adult, LOCATION=RURAL, SEASON=Fall, WEEKEND_FLAG=Weekday 0.235644
+                                         DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening 0.235644
+                   DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.235644
+                                    DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Evening 0.232843
+                                   AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.232493
+                     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, SEASON=Fall, WEEKEND_FLAG=Weekday 0.229692
+                   AGE_GROUP=Adult, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.228992
+                                         AGE_GROUP=Adult, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW 0.228992
+                                             AGE_GROUP=Adult, DARK_CONDITIONS, RUSH_HOUR, VEHICLE=NEW 0.228291
+                       AGE_GROUP=Adult, DARK_CONDITIONS, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.228291
+                                                                     SEASON=Fall, TIME_OF_DAY=Evening 0.228291
+                                            AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.227591
+         AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSTATE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.227241
+                                                                LARGE_TRUCK, SEASON=Fall, VEHICLE=NEW 0.226891
+                                   DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.225840
+                                                             DARK_CONDITIONS, INTERSTATE, LARGE_TRUCK 0.225490
+                                   AGE_GROUP=Adult, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.225490
+                                   DARK_CONDITIONS, LOCATION=RURAL, SEASON=Fall, WEEKEND_FLAG=Weekday 0.224790
+                                     AGE_GROUP=Adult, DARK_CONDITIONS, RUSH_HOUR, TIME_OF_DAY=Evening 0.224440
+                                            AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, SEASON=Fall 0.224440
+               AGE_GROUP=Adult, DARK_CONDITIONS, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.224440
+                                                                              INTERSTATE, SEASON=Fall 0.224090
+                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.223739
+                                AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, LOCATION=RURAL, VEHICLE=NEW 0.221989
+                                 AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW 0.221989
+           AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.221989
+                                                   GENDER=MALE, LARGE_TRUCK, SEASON=Fall, VEHICLE=NEW 0.221289
+                                            GENDER=MALE, RUSH_HOUR, SEASON=Fall, WEEKEND_FLAG=Weekday 0.221289
+                                                                  GENDER=MALE, RUSH_HOUR, SEASON=Fall 0.221289
+                                   DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.221289
+                          GENDER=MALE, LOCATION=RURAL, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.220588
+                                            LARGE_TRUCK, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.220588
+                                            DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.220588
+                                                                  LARGE_TRUCK, RUSH_HOUR, VEHICLE=NEW 0.220588
+                                                       LARGE_TRUCK, SEASON=Fall, WEEKEND_FLAG=Weekday 0.220238
+                  GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.220238
+                                                                           INTERSTATE, LOCATION=URBAN 0.219888
+                                                     AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN 0.219538
+                                                                                        SEASON=Winter 0.218838
+                       AGE_GROUP=Adult, GENDER=MALE, INTERSTATE, LOCATION=RURAL, WEEKEND_FLAG=Weekday 0.218487
+                                    AGE_GROUP=Adult, LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW 0.218137
+                     AGE_GROUP=Adult, DARK_CONDITIONS, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.217787
+                                                DARK_CONDITIONS, GENDER=MALE, INTERSTATE, LARGE_TRUCK 0.217787
+              DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.217437
+                                         AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening 0.217087
+                   AGE_GROUP=Adult, GENDER=MALE, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.217087
+                                AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Evening 0.216387
+                                                              AGE_GROUP=Adult, LARGE_TRUCK, RUSH_HOUR 0.215686
+                                        AGE_GROUP=Adult, LARGE_TRUCK, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.215686
+                       AGE_GROUP=Adult, INTERSTATE, LOCATION=RURAL, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.214636
+                                                            AGE_GROUP=Adult, LARGE_TRUCK, SEASON=Fall 0.214286
+                                          GENDER=MALE, LARGE_TRUCK, SEASON=Fall, WEEKEND_FLAG=Weekday 0.214286
+                                            AGE_GROUP=Adult, LOCATION=RURAL, SEASON=Fall, VEHICLE=NEW 0.213936
+                       AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.213936
+                                             AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, RUSH_HOUR 0.213936
+                                               SEASON=Fall, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.213585
+                                          LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW 0.212885
+                        DARK_CONDITIONS, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.212885
+                                                DARK_CONDITIONS, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW 0.212885
+                    LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.212885
+                                              DARK_CONDITIONS, LOCATION=RURAL, RUSH_HOUR, VEHICLE=NEW 0.212885
+                                                    DARK_CONDITIONS, SEASON=Fall, TIME_OF_DAY=Evening 0.212535
+                                                              INTERSTATE, LARGE_TRUCK, LOCATION=RURAL 0.212185
+                              AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, SEASON=Fall, VEHICLE=NEW 0.212185
+                                                     GENDER=MALE, LARGE_TRUCK, RUSH_HOUR, VEHICLE=NEW 0.210784
+                               GENDER=MALE, LARGE_TRUCK, RUSH_HOUR, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.210784
+                                                                           SEASON=Winter, VEHICLE=NEW 0.210434
+AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.210084
+                                                                  SEASON=Winter, WEEKEND_FLAG=Weekday 0.209734
+                      AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.209384
+                                               AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, SEASON=Fall 0.209034
+                                                                                INTERSTATE, RUSH_HOUR 0.208333
+              AGE_GROUP=Adult, LOCATION=RURAL, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.208333
+                                                          INTERSTATE, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.208333
+                                                                          LARGE_TRUCK, LOCATION=URBAN 0.207983
+          AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=RURAL, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.207983
+                                                                  RUSH_HOUR, SEASON=Fall, VEHICLE=NEW 0.207633
+                                            RUSH_HOUR, SEASON=Fall, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.207633
+                                                         DARK_CONDITIONS, LARGE_TRUCK, LOCATION=RURAL 0.207633
+                      AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, SEASON=Fall, WEEKEND_FLAG=Weekday 0.207283
+                                            DARK_CONDITIONS, GENDER=MALE, LOCATION=RURAL, SEASON=Fall 0.207283
+                           AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, RUSH_HOUR, WEEKEND_FLAG=Weekday 0.206933
+                                                 AGE_GROUP=Adult, GENDER=MALE, LARGE_TRUCK, RUSH_HOUR 0.206933
+                                                                 GENDER=MALE, INTERSTATE, SEASON=Fall 0.206232
+                                   DARK_CONDITIONS, GENDER=MALE, INTERSTATE, LARGE_TRUCK, VEHICLE=NEW 0.205882
+                                      DARK_CONDITIONS, LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Evening 0.205532
+                DARK_CONDITIONS, LOCATION=RURAL, RUSH_HOUR, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.205532
+                                                 GENDER=MALE, INTERSTATE, LARGE_TRUCK, LOCATION=RURAL 0.205532
+                               AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.204832
+                                                              GENDER=MALE, INTERSTATE, LOCATION=URBAN 0.204482
+                      DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.204132
+                                        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN 0.202731
+                                    AGE_GROUP=Adult, GENDER=MALE, LOCATION=RURAL, TIME_OF_DAY=Evening 0.202381
+                                            DARK_CONDITIONS, LOCATION=RURAL, SEASON=Fall, VEHICLE=NEW 0.201681
+                                        AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW 0.201681
+                                                     SEASON=Winter, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.201331
+                                                             GENDER=MALE, LARGE_TRUCK, LOCATION=URBAN 0.200980

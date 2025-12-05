@@ -1,0 +1,375 @@
+CLUSTER 3 - Frequent Itemsets [MLXTEND] (Support >= 0.2)
+Total Transactions: 4804
+============================================================
+
+                                                                                         Itemset  Support
+                                                                                     GENDER=MALE 0.955037
+                                                                                  LOCATION=URBAN 0.862614
+                                                                     GENDER=MALE, LOCATION=URBAN 0.825146
+                                                                                     VEHICLE=NEW 0.783930
+                                                                                    INTERSECTION 0.763114
+                                                                        GENDER=MALE, VEHICLE=NEW 0.746461
+                                                                       GENDER=MALE, INTERSECTION 0.730849
+                                                                                 DARK_CONDITIONS 0.720649
+                                                                                 AGE_GROUP=Adult 0.719817
+                                                                    DARK_CONDITIONS, GENDER=MALE 0.691507
+                                                                    AGE_GROUP=Adult, GENDER=MALE 0.685679
+                                                                    INTERSECTION, LOCATION=URBAN 0.662989
+                                                                     LOCATION=URBAN, VEHICLE=NEW 0.660283
+                                                                 DARK_CONDITIONS, LOCATION=URBAN 0.650500
+                                                       GENDER=MALE, INTERSECTION, LOCATION=URBAN 0.635720
+                                                        GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.630100
+                                                    DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN 0.624896
+                                                                 AGE_GROUP=Adult, LOCATION=URBAN 0.618027
+                                                                                      MOTORCYCLE 0.593672
+                                                    AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN 0.589509
+                                                                             TIME_OF_DAY=Evening 0.578684
+                                                                       INTERSECTION, VEHICLE=NEW 0.576187
+                                                                         GENDER=MALE, MOTORCYCLE 0.571191
+                                                                    DARK_CONDITIONS, VEHICLE=NEW 0.571191
+                                                                    AGE_GROUP=Adult, VEHICLE=NEW 0.565154
+                                                                            WEEKEND_FLAG=Weekend 0.551415
+                                                          GENDER=MALE, INTERSECTION, VEHICLE=NEW 0.550167
+                                                                GENDER=MALE, TIME_OF_DAY=Evening 0.548501
+                                                       DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW 0.546211
+                                                                   DARK_CONDITIONS, INTERSECTION 0.538093
+                                                                   AGE_GROUP=Adult, INTERSECTION 0.538093
+                                                       AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW 0.536844
+                                                               GENDER=MALE, WEEKEND_FLAG=Weekend 0.525187
+                                                                AGE_GROUP=Adult, DARK_CONDITIONS 0.521649
+                                                      DARK_CONDITIONS, GENDER=MALE, INTERSECTION 0.516653
+                                                      AGE_GROUP=Adult, GENDER=MALE, INTERSECTION 0.513530
+                                                    DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW 0.508118
+                                                             LOCATION=URBAN, TIME_OF_DAY=Evening 0.503331
+                                                   AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE 0.499584
+                                                            DARK_CONDITIONS, TIME_OF_DAY=Evening 0.497294
+                                                                      LOCATION=URBAN, MOTORCYCLE 0.495837
+                                                       INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.489800
+                                       DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.486470
+                                                   DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN 0.485429
+                                                         GENDER=MALE, LOCATION=URBAN, MOTORCYCLE 0.478560
+                                                GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening 0.476894
+                                                    AGE_GROUP=Adult, LOCATION=URBAN, VEHICLE=NEW 0.473356
+                                               DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening 0.472315
+                                          GENDER=MALE, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.468568
+                                                AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN 0.468568
+                                                   AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN 0.467943
+                                      DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN 0.466903
+                                                                                     SEASON=Fall 0.458576
+                                                            LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.453580
+                                       AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.450458
+                                   AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN 0.449417
+                                                                            WEEKEND_FLAG=Weekday 0.448585
+                                      AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, LOCATION=URBAN 0.447127
+                                                                TIME_OF_DAY=Evening, VEHICLE=NEW 0.441299
+                                                                        GENDER=MALE, SEASON=Fall 0.439009
+                                                               VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.437136
+                                            DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Evening 0.436928
+                                                                     AGE_GROUP=Adult, MOTORCYCLE 0.436095
+                                                                         MOTORCYCLE, VEHICLE=NEW 0.433389
+                                               GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.432556
+                                                               GENDER=MALE, WEEKEND_FLAG=Weekday 0.429850
+                                                               INTERSECTION, TIME_OF_DAY=Evening 0.425479
+                                                        AGE_GROUP=Adult, GENDER=MALE, MOTORCYCLE 0.419026
+                                                  GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.416528
+                                                   GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.416320
+                                                                        INTERSECTION, MOTORCYCLE 0.416320
+                               DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening 0.415279
+                                                            GENDER=MALE, MOTORCYCLE, VEHICLE=NEW 0.414863
+                                                   AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW 0.413405
+                                                            LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.409034
+                                                      DARK_CONDITIONS, INTERSECTION, VEHICLE=NEW 0.407577
+                                                           AGE_GROUP=Adult, WEEKEND_FLAG=Weekend 0.406120
+                                                            AGE_GROUP=Adult, TIME_OF_DAY=Evening 0.405704
+                                                      AGE_GROUP=Adult, INTERSECTION, VEHICLE=NEW 0.404455
+                                                  GENDER=MALE, INTERSECTION, TIME_OF_DAY=Evening 0.403622
+                                                           GENDER=MALE, INTERSECTION, MOTORCYCLE 0.401749
+                                                              INTERSECTION, WEEKEND_FLAG=Weekend 0.396753
+                                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW 0.394463
+                                               GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.392590
+                                                           DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.390508
+                                         DARK_CONDITIONS, GENDER=MALE, INTERSECTION, VEHICLE=NEW 0.389883
+                                                                     LOCATION=URBAN, SEASON=Fall 0.386553
+                                              AGE_GROUP=Adult, GENDER=MALE, WEEKEND_FLAG=Weekend 0.385512
+                                         AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, VEHICLE=NEW 0.384471
+                                               AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Evening 0.382806
+                                                  AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION 0.382598
+                                               DARK_CONDITIONS, TIME_OF_DAY=Evening, VEHICLE=NEW 0.380100
+                                                 GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekend 0.379892
+                                                LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.375312
+                                              DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekday 0.374688
+                                               INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.371357
+                                                        GENDER=MALE, LOCATION=URBAN, SEASON=Fall 0.370733
+                                                                     DARK_CONDITIONS, MOTORCYCLE 0.367402
+                                                              INTERSECTION, WEEKEND_FLAG=Weekday 0.366361
+                                     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSECTION 0.365945
+                                   AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW 0.365945
+                                              DARK_CONDITIONS, INTERSECTION, TIME_OF_DAY=Evening 0.365112
+                                      DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.361990
+                                                     AGE_GROUP=Adult, LOCATION=URBAN, MOTORCYCLE 0.361366
+                                                                        SEASON=Fall, VEHICLE=NEW 0.359492
+                                  DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.359284
+                                                        DARK_CONDITIONS, GENDER=MALE, MOTORCYCLE 0.357619
+                                                        INTERSECTION, LOCATION=URBAN, MOTORCYCLE 0.355745
+                                           DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.354288
+                                   GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.353872
+                                  GENDER=MALE, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.352623
+                                                 GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekday 0.350958
+                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW 0.349709
+                                                         LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.349292
+                                            AGE_GROUP=Adult, LOCATION=URBAN, TIME_OF_DAY=Evening 0.349084
+                                               LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.348251
+                                           AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Evening 0.348043
+                                        AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, MOTORCYCLE 0.348043
+                         DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.347002
+                                                               VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.346794
+                                 DARK_CONDITIONS, GENDER=MALE, INTERSECTION, TIME_OF_DAY=Evening 0.346794
+                                  AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN 0.345337
+                                      AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.344296
+                                           GENDER=MALE, INTERSECTION, LOCATION=URBAN, MOTORCYCLE 0.343880
+                                                           GENDER=MALE, SEASON=Fall, VEHICLE=NEW 0.343672
+                              DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.340550
+                                              INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.336595
+                                            GENDER=MALE, LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.335762
+                                           AGE_GROUP=Adult, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.334513
+                                  GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.332848
+                     AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN 0.330974
+                                                           DARK_CONDITIONS, WEEKEND_FLAG=Weekend 0.330142
+                                                  GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.329933
+                               AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening 0.329309
+                              AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening 0.329309
+                         AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.327852
+                               DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.326395
+                                              INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.326395
+                                                                       INTERSECTION, SEASON=Fall 0.326187
+                                                                    AGE_GROUP=Adult, SEASON=Fall 0.325146
+                                                     DARK_CONDITIONS, LOCATION=URBAN, MOTORCYCLE 0.324729
+                                 GENDER=MALE, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.322856
+                                              AGE_GROUP=Adult, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.322648
+                              DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.321191
+                                                                    DARK_CONDITIONS, SEASON=Fall 0.320774
+                              AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.317860
+                                              DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekend 0.316819
+                                        DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, MOTORCYCLE 0.316611
+                                                        AGE_GROUP=Adult, MOTORCYCLE, VEHICLE=NEW 0.316195
+                                                          GENDER=MALE, INTERSECTION, SEASON=Fall 0.313697
+                                                           AGE_GROUP=Adult, WEEKEND_FLAG=Weekday 0.313697
+                                 GENDER=MALE, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.312864
+                                               LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.312032
+                                                  INTERSECTION, TIME_OF_DAY=Evening, VEHICLE=NEW 0.311823
+                                                       AGE_GROUP=Adult, GENDER=MALE, SEASON=Fall 0.310366
+                                             DARK_CONDITIONS, INTERSECTION, WEEKEND_FLAG=Weekday 0.309950
+                                               AGE_GROUP=Adult, TIME_OF_DAY=Evening, VEHICLE=NEW 0.309326
+                  DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.308701
+                                                       DARK_CONDITIONS, GENDER=MALE, SEASON=Fall 0.308701
+                                                                MOTORCYCLE, WEEKEND_FLAG=Weekend 0.308077
+                                 AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.306411
+                 DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.305579
+                           AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Evening 0.303081
+                                           AGE_GROUP=Adult, GENDER=MALE, MOTORCYCLE, VEHICLE=NEW 0.302664
+                                              AGE_GROUP=Adult, GENDER=MALE, WEEKEND_FLAG=Weekday 0.300167
+                                                 INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.298918
+                                                       AGE_GROUP=Adult, INTERSECTION, MOTORCYCLE 0.298293
+                                  GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.297252
+                                DARK_CONDITIONS, GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekday 0.297252
+                                              DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.297044
+                                           DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.296211
+                                                        LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.296003
+                                     GENDER=MALE, INTERSECTION, TIME_OF_DAY=Evening, VEHICLE=NEW 0.294338
+                                                   GENDER=MALE, MOTORCYCLE, WEEKEND_FLAG=Weekend 0.293922
+                                                       TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.290799
+                                  AGE_GROUP=Adult, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.290383
+                                     AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, VEHICLE=NEW 0.288718
+                                                    DARK_CONDITIONS, LOCATION=URBAN, SEASON=Fall 0.288093
+                                                       TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekend 0.287885
+                                          AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, MOTORCYCLE 0.287261
+              AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening 0.287052
+                                    GENDER=MALE, INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.286636
+                                              AGE_GROUP=Adult, INTERSECTION, TIME_OF_DAY=Evening 0.285803
+                                                                MOTORCYCLE, WEEKEND_FLAG=Weekday 0.285595
+                                             AGE_GROUP=Adult, INTERSECTION, WEEKEND_FLAG=Weekend 0.285387
+                                                           INTERSECTION, MOTORCYCLE, VEHICLE=NEW 0.285179
+                              DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.284346
+                                           GENDER=MALE, LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.283722
+                                           AGE_GROUP=Adult, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.283514
+                             DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.283514
+                                 DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.282889
+                                          AGE_GROUP=Adult, DARK_CONDITIONS, WEEKEND_FLAG=Weekday 0.277893
+                                       DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, SEASON=Fall 0.277685
+                                                   GENDER=MALE, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.277269
+                                                 INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.277269
+                                                    AGE_GROUP=Adult, DARK_CONDITIONS, MOTORCYCLE 0.276644
+                                                       INTERSECTION, LOCATION=URBAN, SEASON=Fall 0.276436
+                                          GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.275604
+                        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSECTION, VEHICLE=NEW 0.274771
+                                                    AGE_GROUP=Adult, LOCATION=URBAN, SEASON=Fall 0.274147
+                                              DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.274147
+                                              GENDER=MALE, INTERSECTION, MOTORCYCLE, VEHICLE=NEW 0.273314
+                                          GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekend 0.272898
+                DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.272273
+                                AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekend 0.272273
+                              AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.271649
+                                 AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, TIME_OF_DAY=Evening 0.269151
+                                       AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, MOTORCYCLE 0.268943
+                                      DARK_CONDITIONS, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.267277
+                                  INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.267069
+                                                                 MOTORCYCLE, TIME_OF_DAY=Evening 0.266861
+                             AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekday 0.266653
+                                 DARK_CONDITIONS, INTERSECTION, TIME_OF_DAY=Evening, VEHICLE=NEW 0.266236
+                              AGE_GROUP=Adult, DARK_CONDITIONS, TIME_OF_DAY=Evening, VEHICLE=NEW 0.265820
+                                          GENDER=MALE, INTERSECTION, LOCATION=URBAN, SEASON=Fall 0.265612
+                              DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.265612
+                                                        DARK_CONDITIONS, MOTORCYCLE, VEHICLE=NEW 0.264779
+                                    GENDER=MALE, INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.263530
+                                 DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.263322
+                                       AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, SEASON=Fall 0.262073
+                               AGE_GROUP=Adult, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.259784
+                                       LOCATION=URBAN, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.259784
+                                                    GENDER=MALE, MOTORCYCLE, TIME_OF_DAY=Evening 0.259159
+                              AGE_GROUP=Adult, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.257286
+                     AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.257077
+                                           DARK_CONDITIONS, GENDER=MALE, MOTORCYCLE, VEHICLE=NEW 0.256245
+                                                       AGE_GROUP=Adult, SEASON=Fall, VEHICLE=NEW 0.255828
+                                                LOCATION=URBAN, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.255828
+                                       AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, MOTORCYCLE 0.255204
+                 DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.253331
+                                                       DARK_CONDITIONS, SEASON=Fall, VEHICLE=NEW 0.253331
+                         DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.253122
+                                             AGE_GROUP=Adult, INTERSECTION, WEEKEND_FLAG=Weekday 0.252706
+                     GENDER=MALE, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.252498
+                                 INTERSECTION, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.252290
+                    DARK_CONDITIONS, GENDER=MALE, INTERSECTION, TIME_OF_DAY=Evening, VEHICLE=NEW 0.251665
+                                        AGE_GROUP=Adult, LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.251457
+                 AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW 0.250208
+                          AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.249584
+                                   GENDER=MALE, LOCATION=URBAN, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.249167
+                                                                SEASON=Fall, TIME_OF_DAY=Evening 0.248959
+                              AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.248543
+                             AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, TIME_OF_DAY=Evening 0.246669
+                          GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.246461
+                          AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, LOCATION=URBAN, MOTORCYCLE 0.246045
+        AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW 0.245212
+                 AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.245004
+                                          AGE_GROUP=Adult, GENDER=MALE, SEASON=Fall, VEHICLE=NEW 0.244172
+                                          AGE_GROUP=Adult, DARK_CONDITIONS, WEEKEND_FLAG=Weekend 0.243755
+                                          DARK_CONDITIONS, GENDER=MALE, SEASON=Fall, VEHICLE=NEW 0.243755
+                  AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.243755
+                                       LOCATION=URBAN, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekend 0.243547
+                                                          INTERSECTION, SEASON=Fall, VEHICLE=NEW 0.243131
+                                                       DARK_CONDITIONS, INTERSECTION, MOTORCYCLE 0.242714
+                              DARK_CONDITIONS, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.242506
+                                              AGE_GROUP=Adult, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.242506
+                                    AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, MOTORCYCLE 0.241674
+                           AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.241465
+                                AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekday 0.241257
+                    GENDER=MALE, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.240008
+                                                LOCATION=URBAN, MOTORCYCLE, WEEKEND_FLAG=Weekend 0.240008
+             AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.240008
+                                           INTERSECTION, LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.238343
+                      DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.237719
+                                 INTERSECTION, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.237510
+                             AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.236886
+                                                   GENDER=MALE, SEASON=Fall, TIME_OF_DAY=Evening 0.236470
+                                          DARK_CONDITIONS, GENDER=MALE, INTERSECTION, MOTORCYCLE 0.236470
+                       AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, MOTORCYCLE 0.235429
+                                                                                   SEASON=Summer 0.234596
+                 AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.234388
+                                             GENDER=MALE, INTERSECTION, SEASON=Fall, VEHICLE=NEW 0.233764
+                                                                         MOTORCYCLE, SEASON=Fall 0.233347
+                 DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.233139
+                             AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, WEEKEND_FLAG=Weekend 0.232931
+                                               AGE_GROUP=Adult, MOTORCYCLE, WEEKEND_FLAG=Weekend 0.232723
+                AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSECTION, TIME_OF_DAY=Evening 0.232723
+                                                   AGE_GROUP=Adult, DARK_CONDITIONS, SEASON=Fall 0.231890
+                             AGE_GROUP=Adult, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.231057
+                                               DARK_CONDITIONS, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.230641
+                                 AGE_GROUP=Adult, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.230433
+                          GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekend 0.230433
+                                         INTERSECTION, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.230225
+                                                               SEASON=Fall, WEEKEND_FLAG=Weekday 0.230017
+                                      DARK_CONDITIONS, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekend 0.230017
+                                   GENDER=MALE, LOCATION=URBAN, MOTORCYCLE, WEEKEND_FLAG=Weekend 0.229392
+                                        DARK_CONDITIONS, LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.229184
+                              GENDER=MALE, INTERSECTION, LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.228976
+                 DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.228976
+                                                               SEASON=Fall, WEEKEND_FLAG=Weekend 0.228560
+                    GENDER=MALE, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.228560
+                                DARK_CONDITIONS, INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.228560
+                                             DARK_CONDITIONS, INTERSECTION, WEEKEND_FLAG=Weekend 0.228143
+                AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.226478
+                                          TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.226478
+              AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.226062
+         DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.225437
+                                                      AGE_GROUP=Adult, INTERSECTION, SEASON=Fall 0.225437
+                                  DARK_CONDITIONS, GENDER=MALE, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.225021
+                                                      DARK_CONDITIONS, INTERSECTION, SEASON=Fall 0.224813
+                                       DARK_CONDITIONS, LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.224813
+                                                   MOTORCYCLE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.224604
+                                                                      GENDER=MALE, SEASON=Summer 0.224604
+                                               DARK_CONDITIONS, SEASON=Fall, TIME_OF_DAY=Evening 0.224396
+                                                            GENDER=MALE, MOTORCYCLE, SEASON=Fall 0.223356
+                                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, SEASON=Fall 0.222939
+                           DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, MOTORCYCLE, VEHICLE=NEW 0.222107
+                                  AGE_GROUP=Adult, GENDER=MALE, MOTORCYCLE, WEEKEND_FLAG=Weekend 0.221898
+                AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekday 0.220649
+                                                 LOCATION=URBAN, MOTORCYCLE, TIME_OF_DAY=Evening 0.220441
+                                                  GENDER=MALE, SEASON=Fall, WEEKEND_FLAG=Weekday 0.220025
+                                DARK_CONDITIONS, GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekend 0.219400
+                         DARK_CONDITIONS, GENDER=MALE, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekend 0.219192
+                                                  GENDER=MALE, SEASON=Fall, WEEKEND_FLAG=Weekend 0.218984
+                          AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.218984
+                                                LOCATION=URBAN, SEASON=Fall, TIME_OF_DAY=Evening 0.218776
+                            GENDER=MALE, INTERSECTION, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.218360
+                            AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, WEEKEND_FLAG=Weekday 0.218360
+                   DARK_CONDITIONS, GENDER=MALE, INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.217527
+                                       DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, MOTORCYCLE 0.217527
+    DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.216903
+                          DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.216694
+             AGE_GROUP=Adult, DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.216694
+                                                                                     VEHICLE=OLD 0.216070
+                              AGE_GROUP=Adult, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.216070
+                                         DARK_CONDITIONS, GENDER=MALE, INTERSECTION, SEASON=Fall 0.215862
+                                         AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, SEASON=Fall 0.215862
+                                          TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.214821
+                             GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.214821
+                                    GENDER=MALE, LOCATION=URBAN, MOTORCYCLE, TIME_OF_DAY=Evening 0.214197
+                                  DARK_CONDITIONS, GENDER=MALE, SEASON=Fall, TIME_OF_DAY=Evening 0.213780
+                                AGE_GROUP=Adult, INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.213780
+                                      GENDER=MALE, MOTORCYCLE, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.213572
+                                                  INTERSECTION, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.213156
+ AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, TIME_OF_DAY=Evening, VEHICLE=NEW 0.212948
+                             AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.212323
+                          DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN, MOTORCYCLE 0.212323
+                                       AGE_GROUP=Adult, LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.210866
+                                               LOCATION=URBAN, SEASON=Fall, WEEKEND_FLAG=Weekday 0.210241
+             AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.209409
+               AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSECTION, WEEKEND_FLAG=Weekday 0.208993
+                                                   MOTORCYCLE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.208784
+                         INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.208576
+                                                                        GENDER=MALE, VEHICLE=OLD 0.208576
+                        DARK_CONDITIONS, INTERSECTION, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekday 0.208368
+                                   AGE_GROUP=Adult, DARK_CONDITIONS, LOCATION=URBAN, SEASON=Fall 0.207952
+                                      AGE_GROUP=Adult, TIME_OF_DAY=Evening, WEEKEND_FLAG=Weekend 0.207952
+                                 AGE_GROUP=Adult, INTERSECTION, TIME_OF_DAY=Evening, VEHICLE=NEW 0.207744
+                                   GENDER=MALE, LOCATION=URBAN, SEASON=Fall, TIME_OF_DAY=Evening 0.207744
+                DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.206911
+                                                DARK_CONDITIONS, MOTORCYCLE, TIME_OF_DAY=Evening 0.206703
+                                     GENDER=MALE, INTERSECTION, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.206495
+                 AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.205454
+AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, INTERSECTION, LOCATION=URBAN, TIME_OF_DAY=Evening 0.204829
+                               DARK_CONDITIONS, LOCATION=URBAN, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.204205
+                   AGE_GROUP=Adult, GENDER=MALE, INTERSECTION, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.203997
+                                               AGE_GROUP=Adult, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.203372
+                                                  INTERSECTION, MOTORCYCLE, WEEKEND_FLAG=Weekend 0.203164
+                                                                     LOCATION=URBAN, VEHICLE=OLD 0.202331
+                AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.202331
+                             DARK_CONDITIONS, INTERSECTION, LOCATION=URBAN, WEEKEND_FLAG=Weekend 0.201915
+                                          INTERSECTION, LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.201915
+                          AGE_GROUP=Adult, GENDER=MALE, LOCATION=URBAN, SEASON=Fall, VEHICLE=NEW 0.201707
+                                  GENDER=MALE, LOCATION=URBAN, SEASON=Fall, WEEKEND_FLAG=Weekday 0.201499
+                             GENDER=MALE, TIME_OF_DAY=Evening, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.201499
+                                      GENDER=MALE, MOTORCYCLE, VEHICLE=NEW, WEEKEND_FLAG=Weekday 0.201291
+                                   DARK_CONDITIONS, GENDER=MALE, MOTORCYCLE, TIME_OF_DAY=Evening 0.201082
+                             AGE_GROUP=Adult, DARK_CONDITIONS, VEHICLE=NEW, WEEKEND_FLAG=Weekend 0.201082
+                      AGE_GROUP=Adult, DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, SEASON=Fall 0.200458
+                  DARK_CONDITIONS, GENDER=MALE, LOCATION=URBAN, MOTORCYCLE, WEEKEND_FLAG=Weekday 0.200042
