@@ -9,7 +9,26 @@ Our research questions are:
 2. Can advanced data science techniques reveal the importance of these factors in fatal outcomes?
 
 
+### Installation 
 
+To run this project locally, follow these steps:
+
+#### Prerequisites
+
+Ensure you have Python installed (preferably Python 3.12 or later).
+
+#### Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/RupakKadhare15/02807-Computational_Tools_for_Data_Science.git 
+   cd birdscribe-ai
+   ```
+2. Install required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+   
 
 ## Dataset 📊
 The original dataset can be accessed using the given link:
