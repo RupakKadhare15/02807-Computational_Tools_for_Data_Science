@@ -32,7 +32,7 @@ Ensure you have Python installed (preferably Python 3.12 or later).
    pip install -r requirements.txt
    ```
    
-## Usage & Procedure
+## Usage & Procedure 🔎
 After installation of the requirements files and dataset, follow the procedures below to reproduce the analysis. The project is divided into two main parts: FARS (Clustering & Frequent Itemsets) and CRSS (Regression & Trend Analysis).
 
 ### FARS Analysis (Clustering & Frequent Itemsets)
