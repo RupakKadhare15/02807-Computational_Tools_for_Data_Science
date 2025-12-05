@@ -34,8 +34,9 @@ Ensure you have Python installed (preferably Python 3.12 or later).
    
 
 ## Dataset 📊
-The original dataset can be accessed using the given link:
-https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/
+The original datasets can be accessed using the given links:
+FARS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/
+CRSS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/2023/ 
 
 ## Authors 🧑🏻‍💻 
 
