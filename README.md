@@ -32,6 +32,14 @@ Ensure you have Python installed (preferably Python 3.12 or later).
    pip install -r requirements.txt
    ```
    
+## Usage & Procedure
+After installation of the requirements files and dataset, follow the procedures below to reproduce the analysis. The project is divided into two main parts: FARS (Clustering & Frequent Itemsets) and CRSS (Regression & Trend Analysis).
+
+### FARS Analysis (Clustering & Frequent Itemsets)
+This section focuses on the Fatal Accident Reporting System (FARS) data. It covers data extraction, feature engineering, clustering (K-Means), and association rule mining (Apriori).
+
+1. Input Data: The notebooks utilize the datasets located in the [Dataset](Dataset) folder.
+2. Outputs: Visualizations and processed files are saved to the [Results](Results) under Optimal_K, Individual_Cluster_Results, and St4_apriori_results.
 
 ## Dataset 📊
 The original datasets can be accessed using the given links:
@@ -47,5 +55,4 @@ CRSS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/2023/
 [Trinity Evans](https://github.com/trinception)  ,
 [Omar Gonzalez](https://github.com/OmarGGH) , 
 [Rupak Kadhare](https://github.com/RupakKadhare15) , 
-[Brynjar Bjarkason](https://github.com/brynjar13) , 
-[William Steffens](https://github.com/williamsteffens)
+[Brynjar Bjarkason](https://github.com/brynjar13) 
