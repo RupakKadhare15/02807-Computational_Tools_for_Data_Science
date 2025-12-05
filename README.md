@@ -4,6 +4,12 @@
 
 
 
+
+
+## Dataset 📊
+The origincal dataset can be accessed using the given link:
+https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/
+
 ## Authors 🧑🏻‍💻 
 
 [Trinity Evans](https://github.com/trinception)  ,
