@@ -2,6 +2,7 @@ numpy
 pandas
 kmodes
 matplotlib
+seaborn
 mlxtend
 polars
 
