@@ -64,7 +64,9 @@ FARS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/
 - On the website, download *FARS2023NationalCSV.zip*
 - Add the following files to *Dataset* folder: vehicle, person, accident
 
-CRSS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/2023/ 
+CRSS: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/2023/
+- On the website, download *CRSS2023CSV.zip*
+- Add the following files to *Dataset_Regression* folder: vehicle, person, accident
 
 ## Authors 🧑🏻‍💻 
 
