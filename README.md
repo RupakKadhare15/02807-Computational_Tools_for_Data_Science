@@ -51,7 +51,7 @@ This section focuses on the Fatal Accident Reporting System (FARS) data. It cove
 This section focuses on the Crash Report Sampling System (CRSS) data.
 
 1. Input Data: The notebooks utilize the regression dataset located in [Dataset_Regression](Dataset_Regression) folder.
-2. Outputs: Analysis results are stored in the [CRSS_Analysis](CRSS_Analysis) directory.
+2. Outputs: Analysis results are stored in the [CRSS_Analysis](Results/CRSS_Analysis) directory.
 
 #### Execution Steps
 1. [CRSS_Step1_data_extraction.ipynb](CRSS_Step1_data_extraction.ipynb) : Handles the initial data loading and preparation for the CRSS dataset.
