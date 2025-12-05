@@ -1,7 +1,12 @@
 # 02807-Computational_Tools_for_Data_Science
 
 ## Crash Cause - Correlation and Data-Driven Analysis of Road Accidents
+Despite continuous improvements in vehicle safety and infrastructure, road accidents remain a leading cause of death and injury worldwide. Understanding how factors like vehicle type, weather, and road conditions interact—and which combinations predict fatal outcomes—is essential for effective prevention.Large datasets have been studied, revealing combinations of factors linked to severe or fatal crashes. This project uncovers key correlations and patterns between accident characteristics and severity, emphasizing risk factors that contribute most to fatalities. These insights could help authorities prioritize life-saving interventions.
 
+Our research questions are:
+
+Can classical data mining and machine learning methods uncover latent relationships between driver, vehicle, and environmental factors in fatal crashes?
+Can advanced data science techniques reveal the importance of these factors in fatal outcomes?
 
 
 
