@@ -35,7 +35,7 @@ Ensure you have Python installed (preferably Python 3.12 or later).
 ## Usage & Procedure 🔎
 After installation of the requirements files and dataset, follow the procedures below to reproduce the analysis. The project is divided into two main parts: FARS (Clustering & Frequent Itemsets) and CRSS (Regression & Trend Analysis).
 
-### FARS Analysis (Clustering & Frequent Itemsets)
+### FARS Analysis (Clustering & Association Rule Mining)
 This section focuses on the Fatal Accident Reporting System (FARS) data. It covers data extraction, feature engineering, clustering and association rule mining (Apriori).
 
 1. Input Data: The notebooks utilize the datasets located in the [Dataset](Dataset) folder.
